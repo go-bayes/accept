@@ -6,7 +6,7 @@ title: "About ACCEPT at VUW"
 
 ACCEPT at VUW (Applied Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.
 
-ACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.
+ACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
 
 We also maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at [github.com/go-bayes/places-of-worship](https://github.com/go-bayes/places-of-worship).
 
@@ -23,6 +23,7 @@ We combine causal inference workflows with domain expertise to:
 
 **Email:** joseph.bulbulia@vuw.ac.nz  
 **School:** School of Psychological Sciences  
+**Centre affiliation:** [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr)  
 **Institution:** Te Herenga Waka - Victoria University of Wellington, New Zealand  
 **Location:** Easterfield Building, Room EA 324, Kelburn Campus  
 **X (Twitter):** [@prof_joe_](https://x.com/prof_joe_)  
