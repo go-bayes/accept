@@ -5,7 +5,7 @@ body-classes: home
 
 ::: {.hero}
 <h1 class="hero-title">ACCEPT at VUW</h1>
-<p class="hero-subtitle">Applied causal and cultural evidence for policy translation</p>
+<p class="hero-subtitle">Actionable causal and cross-cultural evidence for policy translation</p>
 :::
 
 ACCEPT at VUW is a research group within the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).

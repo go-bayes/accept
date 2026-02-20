@@ -7,7 +7,7 @@ project:
 website:
   title: "ACCEPT at VUW"
   site-url: https://go-bayes.github.io/accept/
-  description: "Applied Causal and Cross-Cultural Evidence for Policy Translation (ACCEPT), School of Psychological Sciences, Te Herenga Waka - Victoria University of Wellington"
+  description: "Actionable Causal and Cross-Cultural Evidence for Policy Translation (ACCEPT), School of Psychological Sciences, Te Herenga Waka - Victoria University of Wellington"
   image: "images/epic-lab-social.png"
   favicon: "images/favicon.ico"
   google-analytics: "G-XXXXXXXXXX"
