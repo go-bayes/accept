@@ -630,11 +630,18 @@
     "text": "Applied causal and cultural evidence for policy translation\nACCEPT at VUW is a research group in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington."
   },
   {
-    "objectID": "index.html#why-accept-at-vuw",
-    "href": "index.html#why-accept-at-vuw",
+    "objectID": "index.html#why-causality",
+    "href": "index.html#why-causality",
     "title": "ACCEPT at VUW",
-    "section": "Why ACCEPT at VUW",
-    "text": "Why ACCEPT at VUW\nDoes participation in an after-school tutoring programme cause better marks? Simple observation might show participants have higher scores, but these students might also be more motivated or have more supportive parents. Distinguishing the programme’s true effect from background factors is the central challenge of evaluation. ACCEPT at VUW (Applied Causal and Cross-Cultural Evidence for Policy Translation) focuses on that challenge, using causal inference and machine learning to estimate whether interventions work, for whom they work best, and when they provide benefit. We address open questions in psychological science, culture, and public policy. ACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, New Zealand."
+    "section": "Why Causality?",
+    "text": "Why Causality?\nDoes participation in an after-school tutoring programme cause better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT at VUW, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy."
+  },
+  {
+    "objectID": "index.html#why-culture",
+    "href": "index.html#why-culture",
+    "title": "ACCEPT at VUW",
+    "section": "Why Culture?",
+    "text": "Why Culture?\nPolicy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy translation. ACCEPT at VUW combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not."
   },
   {
     "objectID": "index.html#what-we-do",
