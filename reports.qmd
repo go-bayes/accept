@@ -52,4 +52,4 @@ All reports are freely available through our GitHub Pages repositories. For spec
 
 When citing our reports, please use the following format:
 
-> Author(s). (Year). *Report Title*. ACCEPT at VUW Reports, Te Herenga Waka - Victoria University of Wellington. URL
+> Author(s). (Year). *Report Title*. ACCEPT Lab Reports, Te Herenga Waka - Victoria University of Wellington. URL

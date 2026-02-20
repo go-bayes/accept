@@ -58,65 +58,65 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About ACCEPT at VUW",
+    "title": "About ACCEPT Lab",
     "section": "",
-    "text": "ACCEPT at VUW (Actionable Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR).\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
+    "text": "ACCEPT Lab (Actionable Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT Lab is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR).\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "about.html#what-we-do",
     "href": "about.html#what-we-do",
-    "title": "About ACCEPT at VUW",
+    "title": "About ACCEPT Lab",
     "section": "",
-    "text": "ACCEPT at VUW (Actionable Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR).\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
+    "text": "ACCEPT Lab (Actionable Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT Lab is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR).\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "about.html#approach",
     "href": "about.html#approach",
-    "title": "About ACCEPT at VUW",
+    "title": "About ACCEPT Lab",
     "section": "Approach",
     "text": "Approach\nWe combine causal inference workflows with domain expertise to:\n\nIdentify and state clearly defined causal questions\nDesign studies that answer these questions\nClearly communicate findings"
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "About ACCEPT at VUW",
+    "title": "About ACCEPT Lab",
     "section": "Contact",
     "text": "Contact\nEmail: joseph.bulbulia@vuw.ac.nz\nSchool: School of Psychological Sciences\nCentre affiliation: Centre for Applied Cross-Cultural Research (CACR)\nInstitution: Te Herenga Waka - Victoria University of Wellington, New Zealand\nLocation: Easterfield Building, Room EA 324, Kelburn Campus\nX (Twitter): @prof_joe_\nBluesky: epiclab.bsky.social\n\nLocation"
   },
   {
     "objectID": "about.html#funding",
     "href": "about.html#funding",
-    "title": "About ACCEPT at VUW",
+    "title": "About ACCEPT Lab",
     "section": "Funding",
-    "text": "Funding\nThe ACCEPT at VUW group gratefully acknowledges support from:\nTempleton Religion Trust\n\nTRT0418: “New Zealand Attitudes and Values Study Matching Grant”\n\nJoseph Bulbulia (Contact PI) and Donnie Davis, Ken Rice, Chris G Sibley, Geoffrey Troughton\n\nTRT-2022-30666: “Mapping Places of Worship: A Tool for Efficient Global Data Collection on Religious Communities”\n\nJoseph Bulbulia (Contact PI) and Joseph Watts\n\nTRT-2022-30579: “A national longitudinal study of Muslim diversity and flourishing”\n\nUsman Afzali (Contact PI), Joseph Bulbulia (Co-PI)\n\n\n\n\n\n\n\nVictoria University of Wellington\n\n\n\n\n\n\n\n\n\nTempleton Religion Trust\n\n\n\n\n*ACCEPT at VUW is based at Te Herenga Waka - Victoria University of Wellington, New Zealand."
+    "text": "Funding\nThe ACCEPT Lab group gratefully acknowledges support from:\nTempleton Religion Trust\n\nTRT0418: “New Zealand Attitudes and Values Study Matching Grant”\n\nJoseph Bulbulia (Contact PI) and Donnie Davis, Ken Rice, Chris G Sibley, Geoffrey Troughton\n\nTRT-2022-30666: “Mapping Places of Worship: A Tool for Efficient Global Data Collection on Religious Communities”\n\nJoseph Bulbulia (Contact PI) and Joseph Watts\n\nTRT-2022-30579: “A national longitudinal study of Muslim diversity and flourishing”\n\nUsman Afzali (Contact PI), Joseph Bulbulia (Co-PI)\n\n\n\n\n\n\n\nVictoria University of Wellington\n\n\n\n\n\n\n\n\n\nTempleton Religion Trust\n\n\n\n\n*ACCEPT Lab is based at Te Herenga Waka - Victoria University of Wellington, New Zealand."
   },
   {
     "objectID": "reports.html",
     "href": "reports.html",
     "title": "Reports",
     "section": "",
-    "text": "NoteGeneral Research Reports (Previous Reports Page)\n\n\n\nBrowse General Reports →\nOur main repository of research reports covering: - Muslim acceptance and prejudice studies - COVID-19 pandemic impacts - Climate science trust - Environmental attitudes and religion - Health and well-being analyses - Methodological papers\n\n\n\n\n\n\n\n\nNoteB-Causal: Causal Inference Resources (Previous Lab)\n\n\n\nBrowse B-Causal Reports →\nSpecialised resources for causal inference including: - Causal inference tutorials - Methodological guides - Applied examples - Code demonstrations\n\n\n\n\n\n\nMuslim Acceptance Study - How the Christchurch attacks affected attitudes toward Muslims in New Zealand\nCOVID-19 Analysis - Pandemic impacts on well-being and social cohesion\nClimate Science Trust - Causal relationships between trust in science and environmental attitudes\nReligious Simpson’s Paradox - Uncovering complex patterns in religious data\n\n\n\n\n\nAll reports are freely available through our GitHub Pages repositories. For specific reports, datasets, or questions, please contact:\n📧 joseph.bulbulia@vuw.ac.nz\n\n\n\n\nWhen citing our reports, please use the following format:\n\nAuthor(s). (Year). Report Title. ACCEPT at VUW Reports, Te Herenga Waka - Victoria University of Wellington. URL"
+    "text": "NoteGeneral Research Reports (Previous Reports Page)\n\n\n\nBrowse General Reports →\nOur main repository of research reports covering: - Muslim acceptance and prejudice studies - COVID-19 pandemic impacts - Climate science trust - Environmental attitudes and religion - Health and well-being analyses - Methodological papers\n\n\n\n\n\n\n\n\nNoteB-Causal: Causal Inference Resources (Previous Lab)\n\n\n\nBrowse B-Causal Reports →\nSpecialised resources for causal inference including: - Causal inference tutorials - Methodological guides - Applied examples - Code demonstrations\n\n\n\n\n\n\nMuslim Acceptance Study - How the Christchurch attacks affected attitudes toward Muslims in New Zealand\nCOVID-19 Analysis - Pandemic impacts on well-being and social cohesion\nClimate Science Trust - Causal relationships between trust in science and environmental attitudes\nReligious Simpson’s Paradox - Uncovering complex patterns in religious data\n\n\n\n\n\nAll reports are freely available through our GitHub Pages repositories. For specific reports, datasets, or questions, please contact:\n📧 joseph.bulbulia@vuw.ac.nz\n\n\n\n\nWhen citing our reports, please use the following format:\n\nAuthor(s). (Year). Report Title. ACCEPT Lab Reports, Te Herenga Waka - Victoria University of Wellington. URL"
   },
   {
     "objectID": "reports.html#research-reports-working-papers",
     "href": "reports.html#research-reports-working-papers",
     "title": "Reports",
     "section": "",
-    "text": "NoteGeneral Research Reports (Previous Reports Page)\n\n\n\nBrowse General Reports →\nOur main repository of research reports covering: - Muslim acceptance and prejudice studies - COVID-19 pandemic impacts - Climate science trust - Environmental attitudes and religion - Health and well-being analyses - Methodological papers\n\n\n\n\n\n\n\n\nNoteB-Causal: Causal Inference Resources (Previous Lab)\n\n\n\nBrowse B-Causal Reports →\nSpecialised resources for causal inference including: - Causal inference tutorials - Methodological guides - Applied examples - Code demonstrations\n\n\n\n\n\n\nMuslim Acceptance Study - How the Christchurch attacks affected attitudes toward Muslims in New Zealand\nCOVID-19 Analysis - Pandemic impacts on well-being and social cohesion\nClimate Science Trust - Causal relationships between trust in science and environmental attitudes\nReligious Simpson’s Paradox - Uncovering complex patterns in religious data\n\n\n\n\n\nAll reports are freely available through our GitHub Pages repositories. For specific reports, datasets, or questions, please contact:\n📧 joseph.bulbulia@vuw.ac.nz\n\n\n\n\nWhen citing our reports, please use the following format:\n\nAuthor(s). (Year). Report Title. ACCEPT at VUW Reports, Te Herenga Waka - Victoria University of Wellington. URL"
+    "text": "NoteGeneral Research Reports (Previous Reports Page)\n\n\n\nBrowse General Reports →\nOur main repository of research reports covering: - Muslim acceptance and prejudice studies - COVID-19 pandemic impacts - Climate science trust - Environmental attitudes and religion - Health and well-being analyses - Methodological papers\n\n\n\n\n\n\n\n\nNoteB-Causal: Causal Inference Resources (Previous Lab)\n\n\n\nBrowse B-Causal Reports →\nSpecialised resources for causal inference including: - Causal inference tutorials - Methodological guides - Applied examples - Code demonstrations\n\n\n\n\n\n\nMuslim Acceptance Study - How the Christchurch attacks affected attitudes toward Muslims in New Zealand\nCOVID-19 Analysis - Pandemic impacts on well-being and social cohesion\nClimate Science Trust - Causal relationships between trust in science and environmental attitudes\nReligious Simpson’s Paradox - Uncovering complex patterns in religious data\n\n\n\n\n\nAll reports are freely available through our GitHub Pages repositories. For specific reports, datasets, or questions, please contact:\n📧 joseph.bulbulia@vuw.ac.nz\n\n\n\n\nWhen citing our reports, please use the following format:\n\nAuthor(s). (Year). Report Title. ACCEPT Lab Reports, Te Herenga Waka - Victoria University of Wellington. URL"
   },
   {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Lab",
     "section": "",
-    "text": "Joseph Bulbulia\n\n\n\nDirector, ACCEPT at VUW: 📧 joseph.bulbulia@vuw.ac.nz\n🔗 University Profile Full CV\nAboutACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.Professor Joseph Bulbulia (Joe) teaches and researches in the School of Psychological Sciences at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Answering such fundamental questions requires moving beyond correlation to identify cause and effect. To meet this challenge, Joseph specialises in methodologies for inferring causality from observational data and founded ACCEPT at VUW to advance this work. He also directs the Centre for Applied Cross-Cultural Research (CACR).Research Projects Joe contributes to two major longitudinal projects:\nNew Zealand Attitudes and Values Study (NZAVS): Joe serves as a principal investigator on major NZAVS projects. He uses 15 years of repeated-measures longitudinal data from more than 76,000 New Zealanders to investigate religion, social cohesion, and trust.\nPulotu Database of Pacific Religions: As a founding co-investigator, Joe uses this database of 116 Austronesian cultures to test theories about the evolution of religious beliefs and their effects on social behaviour.\n\n\nJoe supervises students in a broad range of areas, including:\n\nPersonality and individual differences\nPolitical psychology\nWell-being/Flourishing\nReligion (his primary interest)"
+    "text": "Joseph Bulbulia\n\n\n\nDirector, ACCEPT Lab: 📧 joseph.bulbulia@vuw.ac.nz\n🔗 University Profile Full CV\nAboutACCEPT Lab is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.Professor Joseph Bulbulia (Joe) teaches and researches in the School of Psychological Sciences at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Answering such fundamental questions requires moving beyond correlation to identify cause and effect. To meet this challenge, Joseph specialises in methodologies for inferring causality from observational data and founded ACCEPT Lab to advance this work. He also directs the Centre for Applied Cross-Cultural Research (CACR).Research Projects Joe contributes to two major longitudinal projects:\nNew Zealand Attitudes and Values Study (NZAVS): Joe serves as a principal investigator on major NZAVS projects. He uses 15 years of repeated-measures longitudinal data from more than 76,000 New Zealanders to investigate religion, social cohesion, and trust.\nPulotu Database of Pacific Religions: As a founding co-investigator, Joe uses this database of 116 Austronesian cultures to test theories about the evolution of religious beliefs and their effects on social behaviour.\n\n\nJoe supervises students in a broad range of areas, including:\n\nPersonality and individual differences\nPolitical psychology\nWell-being/Flourishing\nReligion (his primary interest)"
   },
   {
     "objectID": "team.html#director",
     "href": "team.html#director",
     "title": "Lab",
     "section": "",
-    "text": "Joseph Bulbulia\n\n\n\nDirector, ACCEPT at VUW: 📧 joseph.bulbulia@vuw.ac.nz\n🔗 University Profile Full CV\nAboutACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.Professor Joseph Bulbulia (Joe) teaches and researches in the School of Psychological Sciences at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Answering such fundamental questions requires moving beyond correlation to identify cause and effect. To meet this challenge, Joseph specialises in methodologies for inferring causality from observational data and founded ACCEPT at VUW to advance this work. He also directs the Centre for Applied Cross-Cultural Research (CACR).Research Projects Joe contributes to two major longitudinal projects:\nNew Zealand Attitudes and Values Study (NZAVS): Joe serves as a principal investigator on major NZAVS projects. He uses 15 years of repeated-measures longitudinal data from more than 76,000 New Zealanders to investigate religion, social cohesion, and trust.\nPulotu Database of Pacific Religions: As a founding co-investigator, Joe uses this database of 116 Austronesian cultures to test theories about the evolution of religious beliefs and their effects on social behaviour.\n\n\nJoe supervises students in a broad range of areas, including:\n\nPersonality and individual differences\nPolitical psychology\nWell-being/Flourishing\nReligion (his primary interest)"
+    "text": "Joseph Bulbulia\n\n\n\nDirector, ACCEPT Lab: 📧 joseph.bulbulia@vuw.ac.nz\n🔗 University Profile Full CV\nAboutACCEPT Lab is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.Professor Joseph Bulbulia (Joe) teaches and researches in the School of Psychological Sciences at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Answering such fundamental questions requires moving beyond correlation to identify cause and effect. To meet this challenge, Joseph specialises in methodologies for inferring causality from observational data and founded ACCEPT Lab to advance this work. He also directs the Centre for Applied Cross-Cultural Research (CACR).Research Projects Joe contributes to two major longitudinal projects:\nNew Zealand Attitudes and Values Study (NZAVS): Joe serves as a principal investigator on major NZAVS projects. He uses 15 years of repeated-measures longitudinal data from more than 76,000 New Zealanders to investigate religion, social cohesion, and trust.\nPulotu Database of Pacific Religions: As a founding co-investigator, Joe uses this database of 116 Austronesian cultures to test theories about the evolution of religious beliefs and their effects on social behaviour.\n\n\nJoe supervises students in a broad range of areas, including:\n\nPersonality and individual differences\nPolitical psychology\nWell-being/Flourishing\nReligion (his primary interest)"
   },
   {
     "objectID": "team.html#research-fellow",
@@ -144,7 +144,7 @@
     "href": "team.html#research-assistants",
     "title": "Lab",
     "section": "Research Assistants",
-    "text": "Research Assistants\n\nMillie Rea\n\n\n\n\n\nMillie Rea\n\n\n\nMillie is investigating extensions of ACCEPT at VUW workflows to policy settings, focusing on IDI (Integrated Data Infrastructure) data.\n\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning"
+    "text": "Research Assistants\n\nMillie Rea\n\n\n\n\n\nMillie Rea\n\n\n\nMillie is investigating extensions of ACCEPT Lab workflows to policy settings, focusing on IDI (Integrated Data Infrastructure) data.\n\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning"
   },
   {
     "objectID": "team.html#alumni",
@@ -165,14 +165,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Places Map is a core ACCEPT at VUW research infrastructure project. It supports mapping, curation, and analysis of places of worship and related cultural data for open science and policy translation. Project code and workflows are available at github.com/go-bayes/places-of-worship."
+    "text": "Places Map is a core ACCEPT Lab research infrastructure project. It supports mapping, curation, and analysis of places of worship and related cultural data for open science and policy translation. Project code and workflows are available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "research.html#featured-infrastructure",
     "href": "research.html#featured-infrastructure",
     "title": "Research",
     "section": "",
-    "text": "Places Map is a core ACCEPT at VUW research infrastructure project. It supports mapping, curation, and analysis of places of worship and related cultural data for open science and policy translation. Project code and workflows are available at github.com/go-bayes/places-of-worship."
+    "text": "Places Map is a core ACCEPT Lab research infrastructure project. It supports mapping, curation, and analysis of places of worship and related cultural data for open science and policy translation. Project code and workflows are available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "research.html#complete-publication-list",
@@ -613,7 +613,7 @@
     "href": "news.html#section-1",
     "title": "News",
     "section": "2025",
-    "text": "2025\n\nSASP 2025 Pre-Conference Workshop in Melbourne\n19 November 2025 | University of Melbourne | 23 participants\nThe lab travelled to Melbourne for the Society of Australasian Social Psychologists (SASP) 2025 conference, where Joseph Bulbulia led a full-day pre-conference workshop: Beyond Correlation: A Practical Introduction to Causal Inference in Observational Social Psychology.\nTwo ACCEPT at VUW students presented their research applying causal inference methods:\n\nZahle Wiseley: Does Employer Gratitude Improve Employee Well-being? — Using NZAVS data to examine causal effects of workplace appreciation on employee outcomes. Slides (PDF)\nHannah Robinson: Religion and Personality — Investigating causal relationships between religious service attendance and personality traits. Slides (PDF)\n\nWe were also joined by collaborator Dr Usman Afzali (University of Otago, Muslim Flourishing Study), who presented on Muslim community-making and resilience in New Zealand.\n\n\n\n\n\n\nJoseph Bulbulia presenting on causal inference\n\n\n\n\n\n\n\nWorkshop participants\n\n\n\n\n\n\n\n\n\nZahle Wiseley presenting her research\n\n\n\n\n\n\n\nHannah Robinson presenting her research\n\n\n\n\n\n\n\n\nDr Usman Afzali presenting on Muslim community-making and resilience\n\n\nResources:\n\nWorkshop website: go-bayes.github.io/2025-workshop-ci-sasp\nWorkshop materials: github.com/go-bayes/2025-workshop-ci-sasp\nTeaching software: causalworkshop package"
+    "text": "2025\n\nSASP 2025 Pre-Conference Workshop in Melbourne\n19 November 2025 | University of Melbourne | 23 participants\nThe lab travelled to Melbourne for the Society of Australasian Social Psychologists (SASP) 2025 conference, where Joseph Bulbulia led a full-day pre-conference workshop: Beyond Correlation: A Practical Introduction to Causal Inference in Observational Social Psychology.\nTwo ACCEPT Lab students presented their research applying causal inference methods:\n\nZahle Wiseley: Does Employer Gratitude Improve Employee Well-being? — Using NZAVS data to examine causal effects of workplace appreciation on employee outcomes. Slides (PDF)\nHannah Robinson: Religion and Personality — Investigating causal relationships between religious service attendance and personality traits. Slides (PDF)\n\nWe were also joined by collaborator Dr Usman Afzali (University of Otago, Muslim Flourishing Study), who presented on Muslim community-making and resilience in New Zealand.\n\n\n\n\n\n\nJoseph Bulbulia presenting on causal inference\n\n\n\n\n\n\n\nWorkshop participants\n\n\n\n\n\n\n\n\n\nZahle Wiseley presenting her research\n\n\n\n\n\n\n\nHannah Robinson presenting her research\n\n\n\n\n\n\n\n\nDr Usman Afzali presenting on Muslim community-making and resilience\n\n\nResources:\n\nWorkshop website: go-bayes.github.io/2025-workshop-ci-sasp\nWorkshop materials: github.com/go-bayes/2025-workshop-ci-sasp\nTeaching software: causalworkshop package"
   },
   {
     "objectID": "news.html#past-events",
@@ -632,56 +632,56 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "",
-    "text": "Actionable causal and cross-cultural evidence for policy translation\nACCEPT at VUW is a research group within the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR)."
+    "text": "Actionable causal and cross-cultural evidence for policy translation\nACCEPT Lab is a research group within the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR)."
   },
   {
     "objectID": "index.html#why-causality",
     "href": "index.html#why-causality",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "Why Causality?",
-    "text": "Why Causality?\nDoes participation in an after-school tutoring programme cause better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT at VUW, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy."
+    "text": "Why Causality?\nDoes participation in an after-school tutoring programme cause better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy."
   },
   {
     "objectID": "index.html#why-culture",
     "href": "index.html#why-culture",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "Why Culture?",
-    "text": "Why Culture?\nPolicy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy translation. ACCEPT at VUW combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not."
+    "text": "Why Culture?\nPolicy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy translation. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not."
   },
   {
     "objectID": "index.html#what-we-do",
     "href": "index.html#what-we-do",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "What We Do",
     "text": "What We Do\nWe study causal questions in the social sciences using observational and experimental data.\nWe teach practical causal methods through coursework, workshops, and supervision.\nWe collaborate with researchers and communities to produce evidence for policy translation."
   },
   {
     "objectID": "index.html#what-we-study",
     "href": "index.html#what-we-study",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "What We Study",
     "text": "What We Study\n\nCausal Methods in Social Science\nWe state clear causal questions, then build doubly robust models to answer them. We use causal forests to estimate heterogeneous treatment effects, and we study longitudinal modified treatment policies for multi-exposure settings.\n\n\nPlaces Map Infrastructure\nWe maintain Places Map, an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy translation and public scholarship. Code and data workflows are maintained in the places-of-worship repository.\n\n\nApplication Domains\nWe study volunteering and charity, institutional trust, political psychology, personality, health and well-being, meaning and purpose, spirituality, and religion."
   },
   {
     "objectID": "index.html#recent-work",
     "href": "index.html#recent-work",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "Recent Work",
     "text": "Recent Work\nVisit our Presentations section to explore recent research talks and workshops."
   },
   {
     "objectID": "index.html#start-here",
     "href": "index.html#start-here",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "Start Here",
     "text": "Start Here\nVisit our about page for methods, resources, and contact details."
   },
   {
     "objectID": "index.html#collaborate",
     "href": "index.html#collaborate",
-    "title": "ACCEPT at VUW",
+    "title": "ACCEPT Lab",
     "section": "Collaborate",
     "text": "Collaborate\nIf you would like to collaborate or discuss opportunities, email us directly or visit the about page.\nEmail: joseph.bulbulia@vuw.ac.nz\n\n\n\n\n\n\n\nNoteUpdates\n\n\n\nStay updated with our latest research, publications, and events in the news section."
   },

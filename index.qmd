@@ -1,22 +1,22 @@
 ---
-title: "ACCEPT at VUW"
+title: "ACCEPT Lab"
 body-classes: home
 ---
 
 ::: {.hero}
-<h1 class="hero-title">ACCEPT at VUW</h1>
+<h1 class="hero-title">ACCEPT Lab</h1>
 <p class="hero-subtitle">Actionable causal and cross-cultural evidence for policy translation</p>
 :::
 
-ACCEPT at VUW is a research group within the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
+ACCEPT Lab is a research group within the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
 
 ## Why Causality?
 
-Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT at VUW, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy.
+Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy.
 
 ## Why Culture?
 
-Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy translation. ACCEPT at VUW combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.
+Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy translation. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.
 
 ## What We Do
 

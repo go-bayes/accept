@@ -5,7 +5,7 @@ project:
     - fonts
 
 website:
-  title: "ACCEPT at VUW"
+  title: "ACCEPT Lab"
   site-url: https://go-bayes.github.io/accept/
   description: "Actionable Causal and Cross-Cultural Evidence for Policy Translation (ACCEPT), School of Psychological Sciences, Te Herenga Waka - Victoria University of Wellington"
   image: "images/epic-lab-social.png"
@@ -13,7 +13,7 @@ website:
   google-analytics: "G-XXXXXXXXXX"
   open-graph:
     locale: en_US
-    site-name: ACCEPT at VUW
+    site-name: ACCEPT Lab
   twitter-card:
     creator: "@prof_joe_"
     site: "@prof_joe_"

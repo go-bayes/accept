@@ -1,12 +1,12 @@
 ---
-title: "About ACCEPT at VUW"
+title: "About ACCEPT Lab"
 ---
 
 ## What we do
 
-ACCEPT at VUW (Actionable Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.
+ACCEPT Lab (Actionable Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.
 
-ACCEPT at VUW is based in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
+ACCEPT Lab is based in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
 
 We also maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at [github.com/go-bayes/places-of-worship](https://github.com/go-bayes/places-of-worship).
 
@@ -41,14 +41,14 @@ library(leaflet)
 leaflet() %>%
   addTiles() %>%
   addMarkers(lng=174.7681, lat=-41.2889, 
-             popup="ACCEPT at VUW<br>Easterfield Building EA 324<br>Te Herenga Waka - Victoria University of Wellington")
+             popup="ACCEPT Lab<br>Easterfield Building EA 324<br>Te Herenga Waka - Victoria University of Wellington")
 ```
 
 ---
 
 ## Funding
 
-The ACCEPT at VUW group gratefully acknowledges support from:
+The ACCEPT Lab group gratefully acknowledges support from:
 
 **Templeton Religion Trust**
 
@@ -75,4 +75,4 @@ The ACCEPT at VUW group gratefully acknowledges support from:
 :::
 ::::
 
-*ACCEPT at VUW is based at Te Herenga Waka - Victoria University of Wellington, New Zealand.
+*ACCEPT Lab is based at Te Herenga Waka - Victoria University of Wellington, New Zealand.
