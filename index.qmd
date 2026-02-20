@@ -46,7 +46,7 @@ Visit our [Presentations](presentations.qmd) section to explore recent research 
 
 ## Start Here
 
-Visit our [about](about.qmd) section for tools and materials to get started.
+Visit our [about](about.qmd) page for methods, resources, and contact details.
 
 ## Collaborate
 
