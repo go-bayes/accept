@@ -4,7 +4,7 @@ title: "About ACCEPT Lab"
 
 ## What we do
 
-ACCEPT Lab (Actionable Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.
+ACCEPT Lab (Applied Causal and Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.
 
 ACCEPT Lab is based in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
 
