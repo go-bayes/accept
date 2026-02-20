@@ -5,7 +5,7 @@ body-classes: home
 
 ::: {.hero}
 <h1 class="hero-title">ACCEPT Lab</h1>
-<p class="hero-subtitle">Applied causal and cultural evidence for policy translation</p>
+<p class="hero-subtitle">Applied causal and cultural evidence for policy targeting</p>
 :::
 
 ACCEPT Lab is a research group within the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
@@ -16,7 +16,7 @@ Does participation in an after-school tutoring programme *cause* better marks? S
 
 ## Why Culture?
 
-Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy translation. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.
+Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy targeting. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.
 
 ## What We Do
 
@@ -24,7 +24,7 @@ We study causal questions in the social sciences using observational and experim
 
 We teach practical causal methods through coursework, workshops, and supervision.
 
-We collaborate with researchers and communities to produce evidence for policy translation.
+We collaborate with researchers and communities to produce evidence for policy targeting.
 
 ## What We Study
 
@@ -34,7 +34,7 @@ We state clear causal questions, then build doubly robust models to answer them.
 
 ### Places Map Infrastructure
 
-We maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy translation and public scholarship. Code and data workflows are maintained in the [places-of-worship repository](https://github.com/go-bayes/places-of-worship).
+We maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy targeting and public scholarship. Code and data workflows are maintained in the [places-of-worship repository](https://github.com/go-bayes/places-of-worship).
 
 ### Application Domains
 
