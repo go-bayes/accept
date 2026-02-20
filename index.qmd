@@ -8,9 +8,11 @@ body-classes: home
 <p class="hero-subtitle">Applied causal and cultural evidence for policy translation</p>
 :::
 
+ACCEPT at VUW is a research group in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.
+
 ## Why ACCEPT at VUW
 
-Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but these students might also be more motivated or have more supportive parents. Distinguishing the programme's true effect from background factors is the central challenge of evaluation. ACCEPT at VUW (**A**pplied **C**ausal and **C**ross-Cultural **E**vidence for **P**olicy **T**ranslation) focuses on that challenge, using causal inference and machine learning to estimate *whether* interventions work, *for whom* they work best, and *when* they provide benefit. We address open questions in psychological science, culture, and public policy. ACCEPT at VUW is based at the School of Psychological Science at Te Herenga Waka - Victoria University of Wellington, New Zealand.
+Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but these students might also be more motivated or have more supportive parents. Distinguishing the programme's true effect from background factors is the central challenge of evaluation. ACCEPT at VUW (**A**pplied **C**ausal and **C**ross-Cultural **E**vidence for **P**olicy **T**ranslation) focuses on that challenge, using causal inference and machine learning to estimate *whether* interventions work, *for whom* they work best, and *when* they provide benefit. We address open questions in psychological science, culture, and public policy. ACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, New Zealand.
 
 ## What We Do
 
