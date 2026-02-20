@@ -2,6 +2,18 @@
 title: "News"
 ---
 
+## 2026
+
+### Places Map Is Live
+
+**20 February 2026 | Te Herenga Waka - Victoria University of Wellington**
+
+The Places Map project is now live at [placesmap.org](https://www.placesmap.org/). Places Map is an open research infrastructure for mapping places of worship and supporting cross-cultural policy research.
+
+Project code and workflows are available at [github.com/go-bayes/places-of-worship](https://github.com/go-bayes/places-of-worship).
+
+---
+
 ## 2025
 
 ### SASP 2025 Pre-Conference Workshop in Melbourne
