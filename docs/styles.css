@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap");
 
-/* EPIC-LAB WEBSITE STYLES */
+/* ACCEPT AT VUW WEBSITE STYLES */
 
 @font-face {
   font-family: "JetBrains Mono";
@@ -101,9 +101,9 @@
   --bg-white: #ffffff;
 
   /* accent colours */
-  --accent-primary: #ea76cb;
-  --accent-hover: #d965b3;
-  --accent-presentations: #e645a1;
+  --accent-primary: #1e66f5;
+  --accent-hover: #1a5ad7;
+  --accent-presentations: #209fb5;
   --success: #40a02b;
   --warning: #fe640b;
 
@@ -118,7 +118,7 @@
 
   /* hacker texture */
   --grid-size: 26px;
-  --grid-line: rgba(234, 118, 203, 0.07);
+  --grid-line: rgba(30, 102, 245, 0.08);
 }
 
 /* dark theme (catppuccin mocha inspired) */
@@ -131,13 +131,13 @@ body.quarto-dark {
   --bg-light: #1e1e2e;
   --bg-white: #181825;
 
-  --accent-primary: #f5c2e7;
-  --accent-hover: #f2a2e0;
-  --accent-presentations: #f5a1d9;
+  --accent-primary: #89b4fa;
+  --accent-hover: #74c7ec;
+  --accent-presentations: #94e2d5;
   --success: #a6e3a1;
   --warning: #fab387;
 
-  --grid-line: rgba(245, 194, 231, 0.06);
+  --grid-line: rgba(137, 180, 250, 0.08);
 }
 
 /* ========== GLOBAL STYLES ========== */
@@ -203,7 +203,7 @@ pre, code, kbd, samp {
 }
 
 .navbar-nav .dropdown-toggle:contains("PRESENTATIONS"):hover {
-  background-color: #805ad5 !important;
+  background-color: #1a5ad7 !important;
   transform: translateY(-1px);
   box-shadow: 0 3px 6px rgba(0,0,0,0.2);
 }
@@ -329,7 +329,7 @@ code:not(pre code) {
   padding: 0.125rem 0.375rem;
   border-radius: 3px;
   font-size: 0.875em;
-  color: #d73a49;
+  color: #1e66f5;
 }
 
 /* ========== TABLES ========== */
@@ -388,7 +388,7 @@ tr:hover {
   margin: 1.5rem 0;
   box-shadow: 0 1px 3px rgba(0,0,0,0.05);
   transition: box-shadow 0.2s ease;
-  outline: 1px dashed rgba(234, 118, 203, 0.25);
+  outline: 1px dashed rgba(30, 102, 245, 0.25);
   outline-offset: 4px;
 }
 
@@ -490,7 +490,7 @@ tr:hover {
 .btn-primary {
   background-color: var(--accent-primary);
   color: white;
-  border: 1px solid rgba(234, 118, 203, 0.6);
+  border: 1px solid rgba(30, 102, 245, 0.55);
 }
 
 .btn-primary:hover {
@@ -578,7 +578,7 @@ body.quarto-dark pre {
 
 body.quarto-dark code:not(pre code) {
   background-color: #313244;
-  color: #f38ba8;
+  color: #89b4fa;
 }
 
 body.quarto-dark td {
