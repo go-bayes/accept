@@ -26,6 +26,8 @@ website:
         href: team.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Places Map"
+        href: https://www.placesmap.org/
       - text: "Resources"
         href: resources.qmd
       - text: "News"

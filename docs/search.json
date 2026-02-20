@@ -60,14 +60,14 @@
     "href": "about.html",
     "title": "About ACCEPT at VUW",
     "section": "",
-    "text": "ACCEPT at VUW (Applied Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington."
+    "text": "ACCEPT at VUW (Applied Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "about.html#what-we-do",
     "href": "about.html#what-we-do",
     "title": "About ACCEPT at VUW",
     "section": "",
-    "text": "ACCEPT at VUW (Applied Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington."
+    "text": "ACCEPT at VUW (Applied Causal and Cross-Cultural Evidence for Policy Translation) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "about.html#approach",
@@ -165,14 +165,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "For a comprehensive and up-to-date list of publications, please visit:\n\nORCID Profile\nGoogle Scholar"
+    "text": "Places Map is a core ACCEPT at VUW research infrastructure project. It supports mapping, curation, and analysis of places of worship and related cultural data for open science and policy translation. Project code and workflows are available at github.com/go-bayes/places-of-worship."
+  },
+  {
+    "objectID": "research.html#featured-infrastructure",
+    "href": "research.html#featured-infrastructure",
+    "title": "Research",
+    "section": "",
+    "text": "Places Map is a core ACCEPT at VUW research infrastructure project. It supports mapping, curation, and analysis of places of worship and related cultural data for open science and policy translation. Project code and workflows are available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "research.html#complete-publication-list",
     "href": "research.html#complete-publication-list",
     "title": "Research",
-    "section": "",
-    "text": "For a comprehensive and up-to-date list of publications, please visit:\n\nORCID Profile\nGoogle Scholar"
+    "section": "Complete Publication List",
+    "text": "Complete Publication List\nFor a comprehensive and up-to-date list of publications, please visit:\n\nORCID Profile\nGoogle Scholar"
   },
   {
     "objectID": "research.html#selected-recent-publications",
@@ -641,7 +648,7 @@
     "href": "index.html#what-we-study",
     "title": "ACCEPT at VUW",
     "section": "What We Study",
-    "text": "What We Study\n\nCausal Methods in Social Science\nWe state clear causal questions, then build doubly robust models to answer them. We use causal forests to estimate heterogeneous treatment effects, and we study longitudinal modified treatment policies for multi-exposure settings.\n\n\nApplication Domains\nWe study volunteering and charity, institutional trust, political psychology, personality, health and well-being, meaning and purpose, spirituality, and religion."
+    "text": "What We Study\n\nCausal Methods in Social Science\nWe state clear causal questions, then build doubly robust models to answer them. We use causal forests to estimate heterogeneous treatment effects, and we study longitudinal modified treatment policies for multi-exposure settings.\n\n\nPlaces Map Infrastructure\nWe maintain Places Map, an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy translation and public scholarship. Code and data workflows are maintained in the places-of-worship repository.\n\n\nApplication Domains\nWe study volunteering and charity, institutional trust, political psychology, personality, health and well-being, meaning and purpose, spirituality, and religion."
   },
   {
     "objectID": "index.html#recent-work",

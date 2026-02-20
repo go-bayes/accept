@@ -28,6 +28,10 @@ We collaborate with researchers and communities to produce evidence for policy t
 
 We state clear causal questions, then build doubly robust models to answer them. We use causal forests to estimate heterogeneous treatment effects, and we study longitudinal modified treatment policies for multi-exposure settings.
 
+### Places Map Infrastructure
+
+We maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy translation and public scholarship. Code and data workflows are maintained in the [places-of-worship repository](https://github.com/go-bayes/places-of-worship).
+
 ### Application Domains
 
 We study volunteering and charity, institutional trust, political psychology, personality, health and well-being, meaning and purpose, spirituality, and religion.

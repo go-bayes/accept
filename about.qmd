@@ -8,6 +8,8 @@ ACCEPT at VUW (Applied Causal and Cross-Cultural Evidence for Policy Translation
 
 ACCEPT at VUW is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.
 
+We also maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at [github.com/go-bayes/places-of-worship](https://github.com/go-bayes/places-of-worship).
+
 
 ## Approach
 
