@@ -1,0 +1,82 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - fonts
+
+website:
+  title: "ACCEPT at VUW"
+  site-url: https://go-bayes.github.io/accept/
+  description: "Applied Causal and Cross-Cultural Evidence for Policy Translation (ACCEPT) at Te Herenga Waka - Victoria University of Wellington"
+  image: "images/epic-lab-social.png"
+  favicon: "images/favicon.ico"
+  google-analytics: "G-XXXXXXXXXX"
+  open-graph:
+    locale: en_US
+    site-name: ACCEPT at VUW
+  twitter-card:
+    creator: "@prof_joe_"
+    site: "@prof_joe_"
+    card-style: summary_large_image
+  navbar:
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Lab"
+        href: team.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "Reports"
+        href: reports.qmd
+      - text: "Presentations"
+        menu:
+          - text: "All Presentations"
+            href: presentations.qmd
+          - text: "---"
+          - text: "2025"
+          - text: "SASP: Student Presentations"
+            href: presentations.qmd#sasp-2025
+          - text: "APA-BIER: Causal Inference"
+            href: presentations.qmd#apa-bier-2025
+    right:
+      - icon: github
+        href: "https://github.com/go-bayes"
+        aria-label: "GitHub"
+      - icon: twitter
+        href: "https://x.com/prof_joe_"
+        aria-label: "X (Twitter)"
+      - text: "LinkedIn"
+        href: "https://linkedin.com/in/joseph-bulbulia-1ba5a514"
+        aria-label: "LinkedIn"
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0002-5861-2056"
+        aria-label: "ORCID"
+
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    number-sections: false
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    code-fold: true
+    code-tools: true
+    code-copy: hover
+    code-overflow: wrap
+    fig-align: center
+    fig-responsive: true
+    self-contained: false
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
