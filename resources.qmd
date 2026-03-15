@@ -214,6 +214,13 @@ Athey, S. and Imbens, G.W. (2016). [Recursive Partitioning for Heterogeneous Cau
 {{< video https://www.youtube.com/watch?v=KNPYUVmY3NM >}}
 :::
 
+#### Causal Inference in Industry
+*Sean Taylor*
+
+::: {.video-embed}
+{{< video https://www.youtube.com/watch?v=YFnqi4srcKc&t=2915s >}}
+:::
+
 ---
 
 ## Educational Materials
