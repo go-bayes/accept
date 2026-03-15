@@ -62,8 +62,8 @@ format:
   html:
     respect-user-color-scheme: true
     theme:
-      light: flatly
       dark: darkly
+      light: flatly
     css: styles.css
     toc: true
     toc-depth: 3
