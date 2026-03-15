@@ -48,8 +48,8 @@
   --border: #dce0e8;
 
   /* accent colours */
-  --accent-primary: #2563eb;
-  --accent-hover: #1d4ed8;
+  --accent-primary: #059669;
+  --accent-hover: #047857;
   --accent-presentations: #209fb5;
   --success: #40a02b;
   --warning: #fe640b;
@@ -80,8 +80,8 @@ body.quarto-dark {
   --bg-white: #181825;
   --border: #313244;
 
-  --accent-primary: #89b4fa;
-  --accent-hover: #74c7ec;
+  --accent-primary: #34d399;
+  --accent-hover: #6ee7b7;
   --accent-presentations: #94e2d5;
   --success: #a6e3a1;
   --warning: #fab387;
@@ -441,7 +441,7 @@ tr:hover {
 .btn-primary {
   background-color: var(--accent-primary);
   color: white;
-  border: 1px solid rgba(30, 102, 245, 0.55);
+  border: 1px solid rgba(5, 150, 105, 0.55);
 }
 
 .btn-primary:hover {
