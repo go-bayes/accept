@@ -1,39 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://go-bayes.github.io/accept/resources.html</loc>
-    <lastmod>2026-03-15T01:55:49.309Z</lastmod>
-  </url>
-  <url>
-    <loc>https://go-bayes.github.io/accept/about.html</loc>
-    <lastmod>2026-02-20T06:57:51.573Z</lastmod>
-  </url>
-  <url>
-    <loc>https://go-bayes.github.io/accept/reports.html</loc>
-    <lastmod>2026-02-20T06:57:51.574Z</lastmod>
-  </url>
-  <url>
-    <loc>https://go-bayes.github.io/accept/team.html</loc>
-    <lastmod>2026-02-20T06:57:51.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://go-bayes.github.io/accept/research.html</loc>
-    <lastmod>2026-02-20T06:57:51.575Z</lastmod>
+    <loc>https://go-bayes.github.io/accept/discussion-points.knit.html</loc>
+    <lastmod>2026-03-15T02:46:35.317Z</lastmod>
   </url>
   <url>
     <loc>https://go-bayes.github.io/accept/discussion-points.html</loc>
     <lastmod>2026-02-20T06:57:51.573Z</lastmod>
   </url>
   <url>
-    <loc>https://go-bayes.github.io/accept/news.html</loc>
+    <loc>https://go-bayes.github.io/accept/presentations.html</loc>
     <lastmod>2026-02-20T06:57:51.574Z</lastmod>
   </url>
   <url>
     <loc>https://go-bayes.github.io/accept/index.html</loc>
-    <lastmod>2026-02-20T06:57:51.574Z</lastmod>
-  </url>
-  <url>
-    <loc>https://go-bayes.github.io/accept/presentations.html</loc>
     <lastmod>2026-02-20T06:57:51.574Z</lastmod>
   </url>
 </urlset>
