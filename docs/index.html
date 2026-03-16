@@ -275,8 +275,7 @@ gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true});
       }
     };
     const authorPrefersDark = true;
-    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
-    const darkModeDefault = queryPrefersDark.matches;
+    const darkModeDefault = authorPrefersDark;
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -287,14 +286,6 @@ gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true});
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
     };
-    queryPrefersDark.addEventListener("change", e => {
-      if(window.localStorage.getItem("quarto-color-scheme") !== null)
-        return;
-      const alternate = e.matches
-      toggleColorMode(alternate);
-      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
-      toggleGiscusIfUsed(alternate, darkModeDefault);
-    });
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
       toggleColorMode(true);
@@ -406,16 +397,16 @@ gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true});
   <ul>
   <li><a href="#why-causality" id="toc-why-causality" class="nav-link active" data-scroll-target="#why-causality">Why Causality?</a></li>
   <li><a href="#why-culture" id="toc-why-culture" class="nav-link" data-scroll-target="#why-culture">Why Culture?</a></li>
-  <li><a href="#what-we-do" id="toc-what-we-do" class="nav-link" data-scroll-target="#what-we-do">What We Do</a></li>
+  <li><a href="#about-the-lab" id="toc-about-the-lab" class="nav-link" data-scroll-target="#about-the-lab">About the Lab</a></li>
   <li><a href="#what-we-study" id="toc-what-we-study" class="nav-link" data-scroll-target="#what-we-study">What We Study</a>
   <ul class="collapse">
-  <li><a href="#causal-methods-in-social-science" id="toc-causal-methods-in-social-science" class="nav-link" data-scroll-target="#causal-methods-in-social-science">Causal Methods in Social Science</a></li>
+  <li><a href="#causal-questions-in-social-science" id="toc-causal-questions-in-social-science" class="nav-link" data-scroll-target="#causal-questions-in-social-science">Causal Questions in Social Science</a></li>
   <li><a href="#places-map-infrastructure" id="toc-places-map-infrastructure" class="nav-link" data-scroll-target="#places-map-infrastructure">Places Map Infrastructure</a></li>
   <li><a href="#application-domains" id="toc-application-domains" class="nav-link" data-scroll-target="#application-domains">Application Domains</a></li>
   </ul></li>
   <li><a href="#recent-work" id="toc-recent-work" class="nav-link" data-scroll-target="#recent-work">Recent Work</a></li>
-  <li><a href="#start-here" id="toc-start-here" class="nav-link" data-scroll-target="#start-here">Start Here</a></li>
-  <li><a href="#collaborate" id="toc-collaborate" class="nav-link" data-scroll-target="#collaborate">Collaborate</a></li>
+  <li><a href="#explore-the-lab" id="toc-explore-the-lab" class="nav-link" data-scroll-target="#explore-the-lab">Explore the Lab</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
 </nav>
     </div>
@@ -447,50 +438,50 @@ gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true});
 ACCEPT Lab
 </h1>
 <p class="hero-subtitle">
-Applied causal and cultural evidence for policy targeting
+Causal research for social questions that matter
 </p>
 </div>
 <p>ACCEPT Lab is a research group within the <a href="https://www.wgtn.ac.nz/psyc">School of Psychological Sciences</a> at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the <a href="https://www.wgtn.ac.nz/cacr">Centre for Applied Cross-Cultural Research (CACR)</a>.</p>
 <section id="why-causality" class="level2">
 <h2 class="anchored" data-anchor-id="why-causality">Why Causality?</h2>
-<p>Does participation in an after-school tutoring programme <em>cause</em> better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy.</p>
+<p>Does participation in an after-school tutoring programme <em>cause</em> better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clearer decisions in psychological science and public policy.</p>
 </section>
 <section id="why-culture" class="level2">
 <h2 class="anchored" data-anchor-id="why-culture">Why Culture?</h2>
-<p>Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy targeting. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.</p>
+<p>Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible inference. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.</p>
 </section>
-<section id="what-we-do" class="level2">
-<h2 class="anchored" data-anchor-id="what-we-do">What We Do</h2>
-<p>We study causal questions in the social sciences using observational and experimental data.</p>
-<p>We teach practical causal methods through coursework, workshops, and supervision.</p>
-<p>We collaborate with researchers and communities to produce evidence for policy targeting.</p>
+<section id="about-the-lab" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-lab">About the Lab</h2>
+<p>ACCEPT Lab studies causal questions in psychology and the social sciences, with a particular interest in culture, religion, and social life.</p>
+<p>We use observational and experimental data to examine how interventions, institutions, and social environments shape behaviour and wellbeing. Our work also includes teaching and supervision in causal inference.</p>
 </section>
 <section id="what-we-study" class="level2">
 <h2 class="anchored" data-anchor-id="what-we-study">What We Study</h2>
-<section id="causal-methods-in-social-science" class="level3">
-<h3 class="anchored" data-anchor-id="causal-methods-in-social-science">Causal Methods in Social Science</h3>
-<p>We state clear causal questions, then build doubly robust models to answer them. We use causal forests to estimate heterogeneous treatment effects, and we study longitudinal modified treatment policies for multi-exposure settings.</p>
+<section id="causal-questions-in-social-science" class="level3">
+<h3 class="anchored" data-anchor-id="causal-questions-in-social-science">Causal Questions in Social Science</h3>
+<p>Our starting point is the research question rather than the method. We study topics such as trust, volunteering, personality, wellbeing, meaning, and religion, and we use causal methods to make those questions more answerable.</p>
+<p>This includes work with doubly robust estimation, heterogeneous treatment effects, and longitudinal intervention models when those approaches suit the problem.</p>
 </section>
 <section id="places-map-infrastructure" class="level3">
 <h3 class="anchored" data-anchor-id="places-map-infrastructure">Places Map Infrastructure</h3>
-<p>We maintain <a href="https://www.placesmap.org/">Places Map</a>, an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy targeting and public scholarship. Code and data workflows are maintained in the <a href="https://github.com/go-bayes/places-of-worship">places-of-worship repository</a>.</p>
+<p>We maintain <a href="https://www.placesmap.org/">Places Map</a>, an open research infrastructure for studying places of worship and cultural context at scale. The project supports reproducible spatial analysis, new collaborations, and public scholarship. Code and data workflows are maintained in the <a href="https://github.com/go-bayes/places-of-worship">places-of-worship repository</a>.</p>
 </section>
 <section id="application-domains" class="level3">
 <h3 class="anchored" data-anchor-id="application-domains">Application Domains</h3>
-<p>We study volunteering and charity, institutional trust, political psychology, personality, health and well-being, meaning and purpose, spirituality, and religion.</p>
+<p>Our current work includes volunteering and charity, institutional trust, political psychology, personality, health and wellbeing, meaning and purpose, spirituality, and religion.</p>
 </section>
 </section>
 <section id="recent-work" class="level2">
 <h2 class="anchored" data-anchor-id="recent-work">Recent Work</h2>
 <p>Visit our <a href="./presentations.html">Presentations</a> section to explore recent research talks and workshops.</p>
 </section>
-<section id="start-here" class="level2">
-<h2 class="anchored" data-anchor-id="start-here">Start Here</h2>
-<p>Visit our <a href="./about.html">about</a> page for methods, resources, and contact details.</p>
+<section id="explore-the-lab" class="level2">
+<h2 class="anchored" data-anchor-id="explore-the-lab">Explore the Lab</h2>
+<p>Visit our <a href="./about.html">about</a> page for methods, current projects, and contact details.</p>
 </section>
-<section id="collaborate" class="level2">
-<h2 class="anchored" data-anchor-id="collaborate">Collaborate</h2>
-<p>If you would like to collaborate or discuss opportunities, email us directly or visit the <a href="./about.html">about</a> page.</p>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>If you would like to ask about the lab’s work, please email.</p>
 <p><a href="mailto:joseph.bulbulia@vuw.ac.nz" class="btn btn-primary">Email: joseph.bulbulia@vuw.ac.nz</a></p>
 <hr>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -991,52 +982,52 @@ Applied causal and cultural evidence for policy targeting
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>::: {.hero}</span>
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">h1</span><span class="ot"> class</span><span class="op">=</span><span class="st">"hero-title"</span><span class="dt">&gt;</span>ACCEPT Lab<span class="dt">&lt;/</span><span class="kw">h1</span><span class="dt">&gt;</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">p</span><span class="ot"> class</span><span class="op">=</span><span class="st">"hero-subtitle"</span><span class="dt">&gt;</span>Applied causal and cultural evidence for policy targeting<span class="dt">&lt;/</span><span class="kw">p</span><span class="dt">&gt;</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">p</span><span class="ot"> class</span><span class="op">=</span><span class="st">"hero-subtitle"</span><span class="dt">&gt;</span>Causal research for social questions that matter<span class="dt">&lt;/</span><span class="kw">p</span><span class="dt">&gt;</span></span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>ACCEPT Lab is a research group within the <span class="co">[</span><span class="ot">School of Psychological Sciences</span><span class="co">](https://www.wgtn.ac.nz/psyc)</span> at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the <span class="co">[</span><span class="ot">Centre for Applied Cross-Cultural Research (CACR)</span><span class="co">](https://www.wgtn.ac.nz/cacr)</span>.</span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">## Why Causality?</span></span>
 <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy.</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clearer decisions in psychological science and public policy.</span>
 <span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">## Why Culture?</span></span>
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy targeting. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible inference. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.</span>
 <span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="fu">## What We Do</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="fu">## About the Lab</span></span>
 <span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>We study causal questions in the social sciences using observational and experimental data.</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>ACCEPT Lab studies causal questions in psychology and the social sciences, with a particular interest in culture, religion, and social life.</span>
 <span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>We teach practical causal methods through coursework, workshops, and supervision.</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>We use observational and experimental data to examine how interventions, institutions, and social environments shape behaviour and wellbeing. Our work also includes teaching and supervision in causal inference.</span>
 <span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>We collaborate with researchers and communities to produce evidence for policy targeting.</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="fu">## What We Study</span></span>
 <span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="fu">## What We Study</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="fu">### Causal Questions in Social Science</span></span>
 <span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="fu">### Causal Methods in Social Science</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>Our starting point is the research question rather than the method. We study topics such as trust, volunteering, personality, wellbeing, meaning, and religion, and we use causal methods to make those questions more answerable.</span>
 <span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>We state clear causal questions, then build doubly robust models to answer them. We use causal forests to estimate heterogeneous treatment effects, and we study longitudinal modified treatment policies for multi-exposure settings.</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>This includes work with doubly robust estimation, heterogeneous treatment effects, and longitudinal intervention models when those approaches suit the problem.</span>
 <span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="fu">### Places Map Infrastructure</span></span>
 <span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>We maintain <span class="co">[</span><span class="ot">Places Map</span><span class="co">](https://www.placesmap.org/)</span>, an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy targeting and public scholarship. Code and data workflows are maintained in the <span class="co">[</span><span class="ot">places-of-worship repository</span><span class="co">](https://github.com/go-bayes/places-of-worship)</span>.</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>We maintain <span class="co">[</span><span class="ot">Places Map</span><span class="co">](https://www.placesmap.org/)</span>, an open research infrastructure for studying places of worship and cultural context at scale. The project supports reproducible spatial analysis, new collaborations, and public scholarship. Code and data workflows are maintained in the <span class="co">[</span><span class="ot">places-of-worship repository</span><span class="co">](https://github.com/go-bayes/places-of-worship)</span>.</span>
 <span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="fu">### Application Domains</span></span>
 <span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>We study volunteering and charity, institutional trust, political psychology, personality, health and well-being, meaning and purpose, spirituality, and religion.</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>Our current work includes volunteering and charity, institutional trust, political psychology, personality, health and wellbeing, meaning and purpose, spirituality, and religion.</span>
 <span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a><span class="fu">## Recent Work</span></span>
 <span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>Visit our <span class="co">[</span><span class="ot">Presentations</span><span class="co">](presentations.qmd)</span> section to explore recent research talks and workshops.</span>
 <span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="fu">## Start Here</span></span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="fu">## Explore the Lab</span></span>
 <span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>Visit our <span class="co">[</span><span class="ot">about</span><span class="co">](about.qmd)</span> page for methods, resources, and contact details.</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>Visit our <span class="co">[</span><span class="ot">about</span><span class="co">](about.qmd)</span> page for methods, current projects, and contact details.</span>
 <span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="fu">## Collaborate</span></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="fu">## Contact</span></span>
 <span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>If you would like to collaborate or discuss opportunities, email us directly or visit the <span class="co">[</span><span class="ot">about</span><span class="co">](about.qmd)</span> page.</span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>If you would like to ask about the lab's work, please email.</span>
 <span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">Email: joseph.bulbulia@vuw.ac.nz</span><span class="co">](mailto:joseph.bulbulia@vuw.ac.nz)</span>{.btn .btn-primary}</span>
 <span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a></span>

@@ -5,52 +5,52 @@ body-classes: home
 
 ::: {.hero}
 <h1 class="hero-title">ACCEPT Lab</h1>
-<p class="hero-subtitle">Applied causal and cultural evidence for policy targeting</p>
+<p class="hero-subtitle">Causal research for social questions that matter</p>
 :::
 
 ACCEPT Lab is a research group within the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
 
 ## Why Causality?
 
-Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clear decisions in psychological science and public policy.
+Does participation in an after-school tutoring programme *cause* better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clearer decisions in psychological science and public policy.
 
 ## Why Culture?
 
-Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible policy targeting. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.
+Policy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible inference. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not.
 
-## What We Do
+## About the Lab
 
-We study causal questions in the social sciences using observational and experimental data.
+ACCEPT Lab studies causal questions in psychology and the social sciences, with a particular interest in culture, religion, and social life.
 
-We teach practical causal methods through coursework, workshops, and supervision.
-
-We collaborate with researchers and communities to produce evidence for policy targeting.
+We use observational and experimental data to examine how interventions, institutions, and social environments shape behaviour and wellbeing. Our work also includes teaching and supervision in causal inference.
 
 ## What We Study
 
-### Causal Methods in Social Science
+### Causal Questions in Social Science
 
-We state clear causal questions, then build doubly robust models to answer them. We use causal forests to estimate heterogeneous treatment effects, and we study longitudinal modified treatment policies for multi-exposure settings.
+Our starting point is the research question rather than the method. We study topics such as trust, volunteering, personality, wellbeing, meaning, and religion, and we use causal methods to make those questions more answerable.
+
+This includes work with doubly robust estimation, heterogeneous treatment effects, and longitudinal intervention models when those approaches suit the problem.
 
 ### Places Map Infrastructure
 
-We maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for studying places of worship and cultural context. The project supports reproducible spatial analysis for policy targeting and public scholarship. Code and data workflows are maintained in the [places-of-worship repository](https://github.com/go-bayes/places-of-worship).
+We maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for studying places of worship and cultural context at scale. The project supports reproducible spatial analysis, new collaborations, and public scholarship. Code and data workflows are maintained in the [places-of-worship repository](https://github.com/go-bayes/places-of-worship).
 
 ### Application Domains
 
-We study volunteering and charity, institutional trust, political psychology, personality, health and well-being, meaning and purpose, spirituality, and religion.
+Our current work includes volunteering and charity, institutional trust, political psychology, personality, health and wellbeing, meaning and purpose, spirituality, and religion.
 
 ## Recent Work
 
 Visit our [Presentations](presentations.qmd) section to explore recent research talks and workshops.
 
-## Start Here
+## Explore the Lab
 
-Visit our [about](about.qmd) page for methods, resources, and contact details.
+Visit our [about](about.qmd) page for methods, current projects, and contact details.
 
-## Collaborate
+## Contact
 
-If you would like to collaborate or discuss opportunities, email us directly or visit the [about](about.qmd) page.
+If you would like to ask about the lab's work, please email.
 
 [Email: joseph.bulbulia@vuw.ac.nz](mailto:joseph.bulbulia@vuw.ac.nz){.btn .btn-primary}
 
