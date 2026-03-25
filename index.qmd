@@ -26,11 +26,11 @@ We use observational and experimental data to examine how interventions, institu
 
 ## What We Study
 
-### Causal Questions in Social Science
+### Processes and Mechanisms in Social Life
 
-Our starting point is the research question rather than the method. We study topics such as trust, volunteering, personality, wellbeing, meaning, and religion, and we use causal methods to make those questions more answerable.
+We study the social and psychological processes that shape collective life: the formation and erosion of trust, the conditions under which people volunteer, the ways institutions influence wellbeing, and the role of meaning and religion in organising behaviour across communities and over time.
 
-This includes work with doubly robust estimation, heterogeneous treatment effects, and longitudinal intervention models when those approaches suit the problem.
+When those problems require causal explanation, we use observational and longitudinal causal inference to ask what changes what, for whom, and under what conditions. ACCEPT Lab has been part of an early generation of laboratories bringing these tools into psychological and social science, using approaches such as doubly robust estimation, heterogeneous treatment effect analysis, and longitudinal intervention models where they materially improve inference.
 
 ### Places Map Infrastructure
 
