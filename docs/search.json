@@ -634,56 +634,42 @@
     "href": "index.html",
     "title": "ACCEPT Lab",
     "section": "",
-    "text": "Causal research for social questions that matter\nACCEPT Lab is a research group within the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR)."
+    "text": "School of Psychological Sciences | Victoria University of Wellington | Centre for Applied Cross-Cultural Research\n\n\n\nResearch on causal questions in culture and social life\n\n\nACCEPT Lab is a research group in the School of Psychological Sciences at Victoria University of Wellington.\n\n\nWe study causal questions in psychology and the social sciences, with particular interests in culture, religion, and social life. Our work includes observational and experimental analysis, teaching and supervision, and open research infrastructure.\n\n\nResearch Places Map Get in touch"
   },
   {
-    "objectID": "index.html#why-causality",
-    "href": "index.html#why-causality",
+    "objectID": "index.html#research",
+    "href": "index.html#research",
     "title": "ACCEPT Lab",
-    "section": "Why Causality?",
-    "text": "Why Causality?\nDoes participation in an after-school tutoring programme cause better marks? Simple observation might show participants have higher scores, but those students might also be more motivated or have more supportive families. Distinguishing intervention effects from background differences is the central challenge of evaluation. At ACCEPT Lab, we use causal inference and machine learning to estimate whether interventions work, for whom they work, and under which conditions. This work supports clearer decisions in psychological science and public policy."
+    "section": "Research",
+    "text": "Research\nACCEPT Lab studies questions of cause and effect in psychology and the social sciences, with particular interests in culture, religion, and social life. The lab examines how interventions, institutions, and social environments affect behaviour and wellbeing across settings."
   },
   {
-    "objectID": "index.html#why-culture",
-    "href": "index.html#why-culture",
+    "objectID": "index.html#areas-of-research",
+    "href": "index.html#areas-of-research",
     "title": "ACCEPT Lab",
-    "section": "Why Culture?",
-    "text": "Why Culture?\nPolicy effects vary across cultural settings. Religious identity, belief, practice, and community structure can change both exposure to interventions and responses to them. Studying variation in religion is therefore essential for external validity and responsible inference. ACCEPT Lab combines causal methods with cross-cultural evidence to explain when findings travel across groups and when they do not."
+    "section": "Areas of research",
+    "text": "Areas of research\n\n\n\nCausal inference\nWe use causal inference and related methods where they help clarify what changes what, for whom, and under which conditions.\nFour methods papers\n\n\n\nCulture and religion\nWe study how belief, practice, community structure, and cultural setting shape exposure to interventions and responses across groups.\nResearch overview\n\n\n\nSocial and policy applications\nCurrent work includes social inequality, volunteering and charity, institutional trust, political psychology, personality, health and wellbeing, meaning and purpose, spirituality, and religion.\nPresentations and talks"
   },
   {
-    "objectID": "index.html#about-the-lab",
-    "href": "index.html#about-the-lab",
+    "objectID": "index.html#teaching-collaboration-and-resources",
+    "href": "index.html#teaching-collaboration-and-resources",
     "title": "ACCEPT Lab",
-    "section": "About the Lab",
-    "text": "About the Lab\nACCEPT Lab studies causal questions in psychology and the social sciences, with a particular interest in culture, religion, and social life.\nWe use observational and experimental data to examine how interventions, institutions, and social environments shape behaviour and wellbeing. Our work also includes teaching and supervision in causal inference."
+    "section": "Teaching, collaboration, and resources",
+    "text": "Teaching, collaboration, and resources\n\n\n\nCollaboration\nWe work with researchers, institutions, and policy-facing partners on applied causal questions and infrastructure.\nContact\n\n\n\nSupervision and teaching\nThe lab supports supervision and methods teaching in causal inference, psychology, and related social-science applications.\nMeet the lab\n\n\n\nResources\nPresentations, practical resources, and recent news are available across the site.\nBrowse resources"
   },
   {
-    "objectID": "index.html#what-we-study",
-    "href": "index.html#what-we-study",
+    "objectID": "index.html#research-infrastructure",
+    "href": "index.html#research-infrastructure",
     "title": "ACCEPT Lab",
-    "section": "What We Study",
-    "text": "What We Study\n\nProcesses and Mechanisms in Social Life\nWe study the social and psychological processes that shape collective life: the formation and erosion of trust, including institutional trust; the conditions under which people volunteer; the ways personality, institutions, and social inequality shape wellbeing and behaviour; and the role of meaning and religion in organising behaviour across communities and over time.\nWhen those problems require causal explanation, we use observational and longitudinal causal inference to ask what changes what, for whom, and under what conditions. ACCEPT Lab has been part of an early generation of laboratories bringing these tools into psychological and social science, using approaches such as doubly robust estimation, heterogeneous treatment effect analysis, and longitudinal intervention models where they materially improve inference.\n\n\nPlaces Map Infrastructure\nWe maintain Places Map, an open research infrastructure for studying places of worship and cultural context at scale. The project supports reproducible spatial analysis, new collaborations, and public scholarship. Code and data workflows are maintained in the places-of-worship repository.\n\n\nApplication Domains\nOur current work includes social inequality, volunteering and charity, institutional trust, political psychology, personality, health and wellbeing, meaning and purpose, spirituality, and religion."
-  },
-  {
-    "objectID": "index.html#recent-work",
-    "href": "index.html#recent-work",
-    "title": "ACCEPT Lab",
-    "section": "Recent Work",
-    "text": "Recent Work\nVisit our Presentations section to explore recent research talks and workshops."
-  },
-  {
-    "objectID": "index.html#explore-the-lab",
-    "href": "index.html#explore-the-lab",
-    "title": "ACCEPT Lab",
-    "section": "Explore the Lab",
-    "text": "Explore the Lab\nVisit our about page for methods, current projects, and contact details."
+    "section": "Research infrastructure",
+    "text": "Research infrastructure\n\nPlaces Map\nPlaces Map is ACCEPT Lab’s open research infrastructure for studying places of worship and cultural context at scale. It supports reproducible spatial analysis, collaboration, and public scholarship.\n\nVisit Places Map Code and workflows\n\n\n\n\n\n\n\n\nNoteRecent activity\n\n\n\n\nPlaces Map is live\nRecent talks, workshops, and slides\nLab news and events"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "ACCEPT Lab",
     "section": "Contact",
-    "text": "Contact\nIf you would like to ask about the lab’s work, please email.\nEmail: joseph.bulbulia@vuw.ac.nz\n\n\n\n\n\n\n\nNoteUpdates\n\n\n\nStay updated with our latest research, publications, and events in the news section."
+    "text": "Contact\nIf you would like to discuss collaboration, supervision, invited talks, or research infrastructure, please email.\nEmail Joseph Bulbulia"
   },
   {
     "objectID": "presentations.html",

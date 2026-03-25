@@ -217,6 +217,15 @@ h1::after {
   color: var(--text-dark);
 }
 
+.hero-kicker {
+  margin: 0 0 0.75rem;
+  color: var(--text-light);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .hero-subtitle {
   margin: 0;
   font-size: 1.1rem;
@@ -225,6 +234,42 @@ h1::after {
   text-transform: uppercase;
   color: var(--text-light);
   font-family: "IBM Plex Serif", Georgia, serif;
+}
+
+.hero-lede {
+  margin: 1.25rem 0 0;
+  max-width: 44rem;
+  color: var(--text-dark);
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.55;
+}
+
+.hero-text {
+  margin: 1rem 0 0;
+  max-width: 44rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.hero-actions p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.hero p,
+.home-proof-item p,
+.home-card p,
+.feature-card p {
+  text-align: left;
+  text-justify: auto;
 }
 
 body.quarto-dark .hero {
@@ -446,10 +491,82 @@ tr:hover {
   border: 1px solid rgba(88, 114, 245, 0.55);
 }
 
+.btn-secondary {
+  background-color: transparent;
+  color: var(--accent-primary);
+  border: 1px solid var(--accent-primary);
+}
+
 .btn-primary:hover {
   background-color: var(--accent-hover);
   transform: translateY(-1px);
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.btn-secondary:hover {
+  background-color: var(--accent-primary);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.home-proof-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 0 0 3rem;
+}
+
+.home-proof-item {
+  background: var(--bg-white);
+  border: 1px solid var(--header-border);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.15rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.home-proof-item strong {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: var(--text-dark);
+  font-family: "IBM Plex Serif", Georgia, serif;
+  font-weight: 500;
+}
+
+.home-card,
+.feature-card {
+  height: 100%;
+}
+
+.home-card {
+  margin: 0;
+}
+
+.feature-card {
+  border-left-width: 4px;
+}
+
+.home-card h3,
+.feature-card h3 {
+  margin-top: 0;
+}
+
+.feature-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.feature-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0;
+}
+
+.feature-links a {
+  font-weight: 500;
 }
 
 /* ========== PRESENTATION STYLES ========== */
@@ -529,8 +646,52 @@ tr:hover {
     padding: 2rem 1rem;
   }
 
+  .hero {
+    padding: 2rem 1.25rem;
+  }
+
   h1 {
     font-size: 1.75rem;
+  }
+
+  .hero-title {
+    font-size: 2.1rem;
+  }
+
+  .hero-kicker {
+    font-size: 0.75rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+  }
+
+  .hero-lede {
+    font-size: 1.05rem;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-actions p,
+  .feature-links p {
+    flex-direction: column;
+  }
+
+  .hero-actions .btn {
+    text-align: center;
+  }
+
+  .home-proof-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-links {
+    flex-direction: column;
+    gap: 0.5rem;
   }
 
   h2 {
