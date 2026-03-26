@@ -16,24 +16,34 @@ toc: false
 </div>
 :::
 
-## Research
+## Selected work
 
-We develop and teach methods for observational causal inference, including targeted learning, causal forests, and sensitivity analysis for unmeasured confounding. We apply these methods to questions about culture, religion, and social life, studying how belief, practice, community structure, and cultural setting shape behaviour and wellbeing across populations and time.
+[Long-term causal effects of far-right terrorism in New Zealand](https://academic.oup.com/pnasnexus/article/2/8/pgad242/7244773)
+Bulbulia, Afzali, Yogeeswaran & Sibley (2023). *PNAS Nexus*
 
-[Methods paper series](resources.qmd#start-here-methods-in-causal-inference-series) · [Research overview](research.qmd)
+[Life loses some meaning after leaving religion](https://psycnet.apa.org/record/2026-71076-001)
+Van Tongeren, Davis, Sibley & Bulbulia (2025). *Psychology of Religion and Spirituality*
+
+[The causal effects of religious service attendance on prosocial behaviours in New Zealand](https://openaccess.wgtn.ac.nz/articles/journal_contribution/The_causal_effects_of_religious_service_attendance_on_prosocial_behaviours_in_New_Zealand_A_national_longitudinal_study/28386350)
+Bulbulia, Davis, Rice, Sibley & Troughton (2024). *Archive for the Psychology of Religion*
+
+[Methods in causal inference: a four-part tutorial series](resources.qmd#start-here-methods-in-causal-inference-series)
+Bulbulia (2024). *Evolutionary Human Sciences*
+
+[All publications](research.qmd)
 
 ## Places Map
 
-[Places Map](https://www.placesmap.org/) maps places of worship worldwide for reproducible spatial and cultural analysis, supporting research and public scholarship.
+[Places Map](https://www.placesmap.org/) maps places of worship worldwide for reproducible spatial and cultural analysis.
 
 [Visit Places Map](https://www.placesmap.org/) · [Code](https://github.com/go-bayes/places-of-worship)
 
 ## Collaboration and teaching
 
-The lab supports graduate supervision, methods teaching in causal inference, and applied collaboration with researchers, institutions, and policy partners. We welcome enquiries.
+The lab supports graduate supervision, methods teaching in causal inference, and applied collaboration. We welcome enquiries.
 
 ::: {.home-links}
-[Meet the lab](team.qmd) · [Presentations and talks](presentations.qmd) · [News](news.qmd) · [Reports](reports.qmd)
+[Meet the lab](team.qmd) · [Presentations](presentations.qmd) · [News](news.qmd) · [Reports](reports.qmd)
 :::
 
 ::: {.home-affiliation-line}

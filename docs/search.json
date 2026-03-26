@@ -648,14 +648,14 @@
     "href": "index.html#places-map",
     "title": "ACCEPT Lab",
     "section": "Places Map",
-    "text": "Places Map\nPlaces Map maps places of worship worldwide for reproducible spatial and cultural analysis, supporting research and public scholarship.\nVisit Places Map · Code"
+    "text": "Places Map\nPlaces Map maps places of worship worldwide for reproducible spatial and cultural analysis.\nVisit Places Map · Code"
   },
   {
     "objectID": "index.html#collaboration-and-teaching",
     "href": "index.html#collaboration-and-teaching",
     "title": "ACCEPT Lab",
     "section": "Collaboration and teaching",
-    "text": "Collaboration and teaching\nThe lab supports graduate supervision, methods teaching in causal inference, and applied collaboration with researchers, institutions, and policy partners. We welcome enquiries.\n\nMeet the lab · Presentations and talks · News · Reports\n\n\nAffiliated with the Centre for Applied Cross-Cultural Research · School of Psychological Sciences · GitHub"
+    "text": "Collaboration and teaching\nThe lab supports graduate supervision, methods teaching in causal inference, and applied collaboration. We welcome enquiries.\n\nMeet the lab · Presentations · News · Reports\n\n\nAffiliated with the Centre for Applied Cross-Cultural Research · School of Psychological Sciences · GitHub"
   },
   {
     "objectID": "presentations.html",
@@ -677,5 +677,12 @@
     "title": "Presentations",
     "section": "Archive of Presentations",
     "text": "Archive of Presentations\nComing soon…"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "ACCEPT Lab",
+    "section": "Selected work",
+    "text": "Selected work\nLong-term causal effects of far-right terrorism in New Zealand Bulbulia, Afzali, Yogeeswaran & Sibley (2023). PNAS Nexus\nLife loses some meaning after leaving religion Van Tongeren, Davis, Sibley & Bulbulia (2025). Psychology of Religion and Spirituality\nThe causal effects of religious service attendance on prosocial behaviours in New Zealand Bulbulia, Davis, Rice, Sibley & Troughton (2024). Archive for the Psychology of Religion\nMethods in causal inference: a four-part tutorial series Bulbulia (2024). Evolutionary Human Sciences\nAll publications"
   }
 ]
