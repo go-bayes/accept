@@ -5,127 +5,37 @@ toc: false
 ---
 
 ::: {.hero}
-<p class="hero-kicker">School of Psychological Sciences | Victoria University of Wellington | Centre for Applied Cross-Cultural Research</p>
+<p class="hero-affiliation">School of Psychological Sciences · Te Herenga Waka — Victoria University of Wellington</p>
 <h1 class="hero-title">ACCEPT Lab</h1>
-<p class="hero-subtitle">Research on causal questions in culture and social life</p>
-<p class="hero-lede">ACCEPT Lab is a research group in the School of Psychological Sciences at Victoria University of Wellington.</p>
-<p class="hero-text">We study causal questions in psychology and the social sciences, with particular interests in culture, religion, and social life. Our work includes observational and experimental analysis, teaching and supervision, and open research infrastructure.</p>
+<p class="hero-descriptor">Observational causal inference for psychological science</p>
+<p class="hero-lede">We develop and apply causal inference methods to questions in psychology, culture, and social life. We also build research tools, teach these methods, and collaborate widely.</p>
 <div class="hero-actions">
 <a href="research.qmd" class="btn btn-primary">Research</a>
-<a href="https://www.placesmap.org/" class="btn btn-secondary">Places Map</a>
-<a href="mailto:joseph.bulbulia@vuw.ac.nz" class="btn btn-secondary">Get in touch</a>
+<a href="resources.qmd" class="btn btn-secondary">Methods & resources</a>
+<a href="mailto:joseph.bulbulia@vuw.ac.nz" class="btn btn-secondary">Contact</a>
 </div>
-:::
-
-::: {.home-proof-grid}
-::: {.home-proof-item}
-**Based at** the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc)
-:::
-::: {.home-proof-item}
-**Affiliated with** the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr)
-:::
-::: {.home-proof-item}
-**Methods** observational and experimental causal inference
-:::
-::: {.home-proof-item}
-**Infrastructure** [Places Map](https://www.placesmap.org/) for reproducible spatial and cultural analysis
-:::
 :::
 
 ## Research
 
-ACCEPT Lab studies questions of cause and effect in psychology and the social sciences, with particular interests in culture, religion, and social life. The lab examines how interventions, institutions, and social environments affect behaviour and wellbeing across settings.
+We develop and teach methods for observational causal inference, including targeted learning, causal forests, and sensitivity analysis for unmeasured confounding. We apply these methods to questions about culture, religion, and social life, studying how belief, practice, community structure, and cultural setting shape behaviour and wellbeing across populations and time.
 
-## Areas of research
+[Methods paper series](resources.qmd#start-here-methods-in-causal-inference-series) · [Research overview](research.qmd)
 
-:::: {.columns}
-::: {.column width="33%"}
-::: {.card .home-card}
-### Causal inference
+## Places Map
 
-We use causal inference and related methods where they help clarify what changes what, for whom, and under which conditions.
+[Places Map](https://www.placesmap.org/) maps places of worship worldwide for reproducible spatial and cultural analysis, supporting research and public scholarship.
 
-[Four methods papers](resources.qmd#start-here-methods-in-causal-inference-series)
-:::
-:::
+[Visit Places Map](https://www.placesmap.org/) · [Code](https://github.com/go-bayes/places-of-worship)
 
-::: {.column width="33%"}
-::: {.card .home-card}
-### Culture and religion
+## Collaboration and teaching
 
-We study how belief, practice, community structure, and cultural setting shape exposure to interventions and responses across groups.
+The lab supports graduate supervision, methods teaching in causal inference, and applied collaboration with researchers, institutions, and policy partners. We welcome enquiries.
 
-[Research overview](research.qmd)
-:::
+::: {.home-links}
+[Meet the lab](team.qmd) · [Presentations and talks](presentations.qmd) · [News](news.qmd) · [Reports](reports.qmd)
 :::
 
-::: {.column width="33%"}
-::: {.card .home-card}
-### Social and policy applications
-
-Current work includes social inequality, volunteering and charity, institutional trust, political psychology, personality, health and wellbeing, meaning and purpose, spirituality, and religion.
-
-[Presentations and talks](presentations.qmd)
+::: {.home-affiliation-line}
+Affiliated with the [Centre for Applied Cross-Cultural Research](https://www.wgtn.ac.nz/cacr) · [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) · [GitHub](https://github.com/go-bayes)
 :::
-:::
-::::
-
-## Teaching, collaboration, and resources
-
-:::: {.columns}
-::: {.column width="33%"}
-::: {.card .home-card}
-### Collaboration
-
-We work with researchers, institutions, and policy-facing partners on applied causal questions and infrastructure.
-
-[Contact](mailto:joseph.bulbulia@vuw.ac.nz)
-:::
-:::
-
-::: {.column width="33%"}
-::: {.card .home-card}
-### Supervision and teaching
-
-The lab supports supervision and methods teaching in causal inference, psychology, and related social-science applications.
-
-[Meet the lab](team.qmd)
-:::
-:::
-
-::: {.column width="33%"}
-::: {.card .home-card}
-### Resources
-
-Presentations, practical resources, and recent news are available across the site.
-
-[Browse resources](resources.qmd)
-:::
-:::
-::::
-
-## Research infrastructure
-
-::: {.card .feature-card}
-### Places Map
-
-[Places Map](https://www.placesmap.org/) is ACCEPT Lab's open research infrastructure for studying places of worship and cultural context at scale. It supports reproducible spatial analysis, collaboration, and public scholarship.
-
-::: {.feature-links}
-[Visit Places Map](https://www.placesmap.org/)
-[Code and workflows](https://github.com/go-bayes/places-of-worship)
-:::
-:::
-
-::: {.callout-note}
-## Recent activity
-- [Places Map is live](news.qmd#places-map-is-live)
-- [Recent talks, workshops, and slides](presentations.qmd)
-- [Lab news and events](news.qmd)
-:::
-
-## Contact
-
-If you would like to discuss collaboration, supervision, invited talks, or research infrastructure, please email.
-
-[Email Joseph Bulbulia](mailto:joseph.bulbulia@vuw.ac.nz){.btn .btn-primary}

@@ -200,12 +200,12 @@ h1::after {
 }
 
 .hero {
-  padding: 2.5rem 2rem;
-  margin: 1.5rem 0 3rem;
+  padding: 3rem 2rem 2.5rem;
+  margin: 1.5rem 0 2.5rem;
   background: var(--bg-white);
-  border: 1px solid var(--header-border);
-  border-radius: var(--radius-lg);
-  box-shadow: 0 8px 20px rgba(17, 17, 27, 0.08);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--accent-primary);
+  border-radius: var(--radius-md);
 }
 
 .hero-title {
@@ -217,20 +217,20 @@ h1::after {
   color: var(--text-dark);
 }
 
-.hero-kicker {
+.hero-affiliation {
   margin: 0 0 0.75rem;
   color: var(--text-light);
-  font-size: 0.82rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
 }
 
-.hero-subtitle {
-  margin: 0;
-  font-size: 1.1rem;
+.hero-descriptor {
+  margin: 0.5rem 0 0;
+  font-size: 1.15rem;
   font-weight: 500;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--text-light);
   font-family: "IBM Plex Serif", Georgia, serif;
@@ -265,15 +265,10 @@ h1::after {
 }
 
 .hero p,
-.home-proof-item p,
 .home-card p,
 .feature-card p {
   text-align: left;
   text-justify: auto;
-}
-
-body.quarto-dark .hero {
-  box-shadow: none;
 }
 
 .quarto-title .subtitle,
@@ -510,27 +505,38 @@ tr:hover {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.home-proof-grid {
+/* ========== CARD GRID (responsive, replaces Quarto columns) ========== */
+.card-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-  margin: 0 0 3rem;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0 2.5rem;
 }
 
-.home-proof-item {
-  background: var(--bg-white);
-  border: 1px solid var(--header-border);
-  border-radius: var(--radius-md);
-  padding: 1rem 1.15rem;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+.card-grid > .card {
+  margin: 0;
 }
 
-.home-proof-item strong {
-  display: block;
-  margin-bottom: 0.25rem;
-  color: var(--text-dark);
-  font-family: "IBM Plex Serif", Georgia, serif;
-  font-weight: 500;
+/* ========== HOME UTILITY CLASSES ========== */
+.home-links {
+  margin: 1rem 0 2.5rem;
+  font-size: 1.05rem;
+}
+
+.home-links p {
+  text-align: left;
+}
+
+.home-affiliation-line {
+  margin: 3rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
+
+.home-affiliation-line p {
+  text-align: left;
 }
 
 .home-card,
@@ -658,13 +664,13 @@ tr:hover {
     font-size: 2.1rem;
   }
 
-  .hero-kicker {
-    font-size: 0.75rem;
+  .hero-affiliation {
+    font-size: 0.72rem;
   }
 
-  .hero-subtitle {
-    font-size: 1rem;
-    letter-spacing: 0.05em;
+  .hero-descriptor {
+    font-size: 0.95rem;
+    letter-spacing: 0.03em;
   }
 
   .hero-lede {
@@ -685,7 +691,7 @@ tr:hover {
     text-align: center;
   }
 
-  .home-proof-grid {
+  .card-grid {
     grid-template-columns: 1fr;
   }
 
