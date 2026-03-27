@@ -12,11 +12,14 @@ toc: false
 <div class="hero-actions">
 <a href="research.qmd" class="btn btn-primary">Research</a>
 <a href="resources.qmd" class="btn btn-secondary">Methods & resources</a>
-<a href="mailto:joseph.bulbulia@vuw.ac.nz" class="btn btn-secondary">Contact</a>
+<span class="btn btn-secondary">joseph.bulbulia@vuw.ac.nz</span>
 </div>
 :::
 
 ## Selected work
+
+[Target trial emulation shows that supported causal effects of religious attendance on well-being are selective](https://doi.org/10.1017/ehs.2026.10043)
+Bulbulia, Davis, Park, Rice, Troughton, Van Tongeren & Sibley (2026). *Evolutionary Human Sciences*, 8. [DOI](https://doi.org/10.1017/ehs.2026.10043)
 
 [Long-term causal effects of far-right terrorism in New Zealand](https://academic.oup.com/pnasnexus/article/2/8/pgad242/7244773)
 Bulbulia, Afzali, Yogeeswaran & Sibley (2023). *PNAS Nexus*
@@ -29,6 +32,9 @@ Bulbulia, Davis, Rice, Sibley & Troughton (2024). *Archive for the Psychology of
 
 [Methods in causal inference: a four-part tutorial series](resources.qmd#start-here-methods-in-causal-inference-series)
 Bulbulia (2024). *Evolutionary Human Sciences*
+
+[Causal effect of psychopathy on partner well-being](https://doi.org/10.1111/jopy.70042)
+Hissey, Eisenbarth, Hammond, Sibley & Bulbulia (2025). *Journal of Personality*
 
 [All publications](research.qmd)
 

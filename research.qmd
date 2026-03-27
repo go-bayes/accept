@@ -17,6 +17,13 @@ For a comprehensive and up-to-date list of publications, please visit:
 
 ## Selected Recent Publications
 
+### 2026
+
+- **Target trial emulation shows that supported causal effects of religious attendance on well-being are selective**
+  Bulbulia, J. A., Davis, D. E., Park, C. L., Rice, K. G., Troughton, G., Van Tongeren, D. R., & Sibley, C. G.
+  *Evolutionary Human Sciences*, 8
+  [Full Text](https://doi.org/10.1017/ehs.2026.10043)
+
 ### 2025 Preprints
 
 - **An Invitation to Causal Inference in Environmental Psychology**  

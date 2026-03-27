@@ -186,7 +186,7 @@
     "href": "research.html#selected-recent-publications",
     "title": "Research",
     "section": "Selected Recent Publications",
-    "text": "Selected Recent Publications\n\n2025 Preprints\n\nAn Invitation to Causal Inference in Environmental Psychology\nOSF Preprint\nBeyond Deficit Narratives: Religious Prejudice, Meaning, and Resilience in a National Sample of New Zealand Muslims\nOSF Preprint\n\n\n\n2024\n\nCausal effects of religious service attendance on charity and volunteering using novel measures from a national longitudinal panel\nBulbulia, J. A., Davis, D. E., Rice, K., Sibley, C. G., & Troughton, G.\nArchive for the Psychology of Religion 46(3), 244-267\nFull Text\nMethods in Causal Inference Series\n\nPart 1: Causal Diagrams and Confounding\nPart 2: Interaction, Mediation, and Time-Varying Treatments\n\nPart 3: Measurement Error and External Validity Threats\nPart 4: Confounding in Experiments\nEvolutionary Human Sciences, 6\n\nThe anatomy of prejudice during pandemic lockdowns: Evidence from a national panel study\nKempthorne, J., Yogeeswaran, K., Sibley, C. G., & Bulbulia, J. A.\nPLOS ONE, 19(5), 1–14\nFull Text\n\n\n\n2023\n\nA workflow for causal inference in cross-cultural psychology\nBulbulia, J. A.\nReligion, Brain & Behavior, 13(3), 291-306\nFull Text\nLong-term causal effects of far-right terrorism in New Zealand\nBulbulia, J. A., Afzali, M. U., Yogeeswaran, K., & Sibley, C. G.\nPNAS Nexus, 2(8), pgad242\nFull Text"
+    "text": "Selected Recent Publications\n\n2026\n\nTarget trial emulation shows that supported causal effects of religious attendance on well-being are selective Bulbulia, J. A., Davis, D. E., Park, C. L., Rice, K. G., Troughton, G., Van Tongeren, D. R., & Sibley, C. G. Evolutionary Human Sciences, 8 Full Text\n\n\n\n2025 Preprints\n\nAn Invitation to Causal Inference in Environmental Psychology\nOSF Preprint\nBeyond Deficit Narratives: Religious Prejudice, Meaning, and Resilience in a National Sample of New Zealand Muslims\nOSF Preprint\n\n\n\n2024\n\nCausal effects of religious service attendance on charity and volunteering using novel measures from a national longitudinal panel\nBulbulia, J. A., Davis, D. E., Rice, K., Sibley, C. G., & Troughton, G.\nArchive for the Psychology of Religion 46(3), 244-267\nFull Text\nMethods in Causal Inference Series\n\nPart 1: Causal Diagrams and Confounding\nPart 2: Interaction, Mediation, and Time-Varying Treatments\n\nPart 3: Measurement Error and External Validity Threats\nPart 4: Confounding in Experiments\nEvolutionary Human Sciences, 6\n\nThe anatomy of prejudice during pandemic lockdowns: Evidence from a national panel study\nKempthorne, J., Yogeeswaran, K., Sibley, C. G., & Bulbulia, J. A.\nPLOS ONE, 19(5), 1–14\nFull Text\n\n\n\n2023\n\nA workflow for causal inference in cross-cultural psychology\nBulbulia, J. A.\nReligion, Brain & Behavior, 13(3), 291-306\nFull Text\nLong-term causal effects of far-right terrorism in New Zealand\nBulbulia, J. A., Afzali, M. U., Yogeeswaran, K., & Sibley, C. G.\nPNAS Nexus, 2(8), pgad242\nFull Text"
   },
   {
     "objectID": "research.html#software",
@@ -634,14 +634,14 @@
     "href": "index.html",
     "title": "ACCEPT Lab",
     "section": "",
-    "text": "School of Psychological Sciences · Te Herenga Waka — Victoria University of Wellington\n\n\n\nObservational causal inference for psychological science\n\n\nWe develop and apply causal inference methods to questions in psychology, culture, and social life. We also build research tools, teach these methods, and collaborate widely.\n\n\nResearch Methods & resources Contact"
+    "text": "School of Psychological Sciences · Te Herenga Waka — Victoria University of Wellington\n\n\n\nObservational causal inference for psychological science\n\n\nWe develop and apply causal inference methods to questions in psychology, culture, and social life. We also build research tools, teach these methods, and collaborate widely.\n\n\nResearch Methods & resources joseph.bulbulia@vuw.ac.nz"
   },
   {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
     "title": "ACCEPT Lab",
-    "section": "Research",
-    "text": "Research\nWe develop and teach methods for observational causal inference, including targeted learning, causal forests, and sensitivity analysis for unmeasured confounding. We apply these methods to questions about culture, religion, and social life, studying how belief, practice, community structure, and cultural setting shape behaviour and wellbeing across populations and time.\nMethods paper series · Research overview"
+    "section": "Selected work",
+    "text": "Selected work\nTarget trial emulation shows that supported causal effects of religious attendance on well-being are selective Bulbulia, Davis, Park, Rice, Troughton, Van Tongeren & Sibley (2026). Evolutionary Human Sciences, 8. DOI\nLong-term causal effects of far-right terrorism in New Zealand Bulbulia, Afzali, Yogeeswaran & Sibley (2023). PNAS Nexus\nLife loses some meaning after leaving religion Van Tongeren, Davis, Sibley & Bulbulia (2025). Psychology of Religion and Spirituality\nThe causal effects of religious service attendance on prosocial behaviours in New Zealand Bulbulia, Davis, Rice, Sibley & Troughton (2024). Archive for the Psychology of Religion\nMethods in causal inference: a four-part tutorial series Bulbulia (2024). Evolutionary Human Sciences\nCausal effect of psychopathy on partner well-being Hissey, Eisenbarth, Hammond, Sibley & Bulbulia (2025). Journal of Personality\nAll publications"
   },
   {
     "objectID": "index.html#places-map",
@@ -677,12 +677,5 @@
     "title": "Presentations",
     "section": "Archive of Presentations",
     "text": "Archive of Presentations\nComing soon…"
-  },
-  {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "ACCEPT Lab",
-    "section": "Selected work",
-    "text": "Selected work\nLong-term causal effects of far-right terrorism in New Zealand Bulbulia, Afzali, Yogeeswaran & Sibley (2023). PNAS Nexus\nLife loses some meaning after leaving religion Van Tongeren, Davis, Sibley & Bulbulia (2025). Psychology of Religion and Spirituality\nThe causal effects of religious service attendance on prosocial behaviours in New Zealand Bulbulia, Davis, Rice, Sibley & Troughton (2024). Archive for the Psychology of Religion\nMethods in causal inference: a four-part tutorial series Bulbulia (2024). Evolutionary Human Sciences\nAll publications"
   }
 ]
