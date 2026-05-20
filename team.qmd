@@ -4,7 +4,7 @@ title: "People"
 
 ## Director
 
-### Professor Joseph Bulbulia
+### Joseph Bulbulia
 
 :::: {.columns}
 
@@ -21,7 +21,7 @@ title: "People"
 
 ACCEPT Lab is based in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington.
 
-Professor Joseph Bulbulia (Joe) teaches and researches in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Answering such fundamental questions requires moving beyond correlation to identify cause and effect. To meet this challenge, Joseph specialises in methodologies for inferring causality from observational data and founded ACCEPT Lab to advance this work. He also directs the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
+Joseph Bulbulia (Joe) teaches and researches in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Joseph specialises in methodologies for inferring causality from observational data. He also directs the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
 
 **Research Projects**
 Joe contributes to two major longitudinal projects:
@@ -55,7 +55,7 @@ Joe supervises students in a broad range of areas, including:
 :::
 
 ::: {.column width="75%"}
-Jessie is investigating individual differences in personal resilience related to poverty.
+Jessie is investigating individual differences in personal resilience related to deprivation. 
 
 - **Project:** New Zealand Attitudes and Values Study (NZAVS)
 - **Methods:** Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning

@@ -16,7 +16,7 @@ Inkuk remains a Fellow of ACCEPT Lab and is working on a number of projects rela
 
 ### Places Map Is Live
 
-**20 February 2026 | Te Herenga Waka - Victoria University of Wellington**
+**20 February 2026 | Victoria University of Wellington**
 
 The Places Map project is now live at [placesmap.org](https://www.placesmap.org/). Places Map is an open research infrastructure for mapping places of worship and supporting cross-cultural policy research.
 
@@ -26,7 +26,7 @@ Project code and workflows are available at [github.com/go-bayes/places-of-worsh
 
 ### Two New PhD Students Join ACCEPT Lab
 
-**January 2026 | Te Herenga Waka - Victoria University of Wellington**
+**January 2026 | Victoria University of Wellington**
 
 We are delighted to welcome two new PhD students to ACCEPT Lab: Mekonnen Tsehay and Mohammad Islam.
 
