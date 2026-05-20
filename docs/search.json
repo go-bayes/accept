@@ -60,7 +60,7 @@
     "href": "about.html",
     "title": "About ACCEPT Lab",
     "section": "",
-    "text": "ACCEPT Lab (Applied Causal and Cultural Evidence for Policy Targeting) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nACCEPT Lab is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR).\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
+    "text": "ACCEPT Lab (Applied Causal and Cultural Evidence for Policy Targeting) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.\nWe are based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the Centre for Applied Cross-Cultural Research (CACR).\nWe also maintain Places Map, an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at github.com/go-bayes/places-of-worship."
   },
   {
     "objectID": "about.html#what-we-do",
@@ -88,7 +88,7 @@
     "href": "about.html#funding",
     "title": "About ACCEPT Lab",
     "section": "Funding",
-    "text": "Funding\nThe ACCEPT Lab group gratefully acknowledges support from:\nTempleton Religion Trust\n\nTRT0418: “New Zealand Attitudes and Values Study Matching Grant”\n\nJoseph Bulbulia (Contact PI) and Donnie Davis, Ken Rice, Chris G Sibley, Geoffrey Troughton\n\nTRT-2022-30666: “Mapping Places of Worship: A Tool for Efficient Global Data Collection on Religious Communities”\n\nJoseph Bulbulia (Contact PI) and Joseph Watts\n\nTRT-2022-30579: “A national longitudinal study of Muslim diversity and flourishing”\n\nUsman Afzali (Contact PI), Joseph Bulbulia (Co-PI)\n\n\n\n\n\n\n\nVictoria University of Wellington\n\n\n\n\n\n\n\n\n\nTempleton Religion Trust\n\n\n\n\n*ACCEPT Lab is based at Te Herenga Waka - Victoria University of Wellington, New Zealand."
+    "text": "Funding\nThe ACCEPT Lab group gratefully acknowledges support from:\nTempleton Religion Trust\n\nTRT0418: “New Zealand Attitudes and Values Study Matching Grant”\n\nJoseph Bulbulia (Contact PI) and Donnie Davis, Ken Rice, Chris G Sibley, Geoffrey Troughton\n\nTRT-2022-30666: “Mapping Places of Worship: A Tool for Efficient Global Data Collection on Religious Communities”\n\nJoseph Bulbulia (Contact PI) and Joseph Watts\n\n\n\n\n\n\n\nVictoria University of Wellington\n\n\n\n\n\n\n\n\n\nTempleton Religion Trust"
   },
   {
     "objectID": "reports.html",
@@ -107,14 +107,14 @@
   {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Lab",
+    "title": "People",
     "section": "",
     "text": "Joseph Bulbulia\n\n\n\nDirector, ACCEPT Lab: 📧 joseph.bulbulia@vuw.ac.nz\n🔗 University Profile Full CV\nAboutACCEPT Lab is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.Professor Joseph Bulbulia (Joe) teaches and researches in the School of Psychological Sciences at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Answering such fundamental questions requires moving beyond correlation to identify cause and effect. To meet this challenge, Joseph specialises in methodologies for inferring causality from observational data and founded ACCEPT Lab to advance this work. He also directs the Centre for Applied Cross-Cultural Research (CACR).Research Projects Joe contributes to two major longitudinal projects:\nNew Zealand Attitudes and Values Study (NZAVS): Joe serves as a principal investigator on major NZAVS projects. He uses 15 years of repeated-measures longitudinal data from more than 76,000 New Zealanders to investigate religion, social cohesion, and trust.\nPulotu Database of Pacific Religions: As a founding co-investigator, Joe uses this database of 116 Austronesian cultures to test theories about the evolution of religious beliefs and their effects on social behaviour.\n\n\nJoe supervises students in a broad range of areas, including:\n\nPersonality and individual differences\nPolitical psychology\nWell-being/Flourishing\nReligion (his primary interest)"
   },
   {
     "objectID": "team.html#director",
     "href": "team.html#director",
-    "title": "Lab",
+    "title": "People",
     "section": "",
     "text": "Joseph Bulbulia\n\n\n\nDirector, ACCEPT Lab: 📧 joseph.bulbulia@vuw.ac.nz\n🔗 University Profile Full CV\nAboutACCEPT Lab is based in the School of Psychological Sciences at Te Herenga Waka - Victoria University of Wellington.Professor Joseph Bulbulia (Joe) teaches and researches in the School of Psychological Sciences at Victoria University of Wellington. His research investigates the complex drivers of human cooperation, conflict, and well-being, with a focus on the role of religion and values. Answering such fundamental questions requires moving beyond correlation to identify cause and effect. To meet this challenge, Joseph specialises in methodologies for inferring causality from observational data and founded ACCEPT Lab to advance this work. He also directs the Centre for Applied Cross-Cultural Research (CACR).Research Projects Joe contributes to two major longitudinal projects:\nNew Zealand Attitudes and Values Study (NZAVS): Joe serves as a principal investigator on major NZAVS projects. He uses 15 years of repeated-measures longitudinal data from more than 76,000 New Zealanders to investigate religion, social cohesion, and trust.\nPulotu Database of Pacific Religions: As a founding co-investigator, Joe uses this database of 116 Austronesian cultures to test theories about the evolution of religious beliefs and their effects on social behaviour.\n\n\nJoe supervises students in a broad range of areas, including:\n\nPersonality and individual differences\nPolitical psychology\nWell-being/Flourishing\nReligion (his primary interest)"
   },
@@ -128,35 +128,35 @@
   {
     "objectID": "team.html#phd-students",
     "href": "team.html#phd-students",
-    "title": "Lab",
+    "title": "People",
     "section": "PhD Students",
-    "text": "PhD Students\n\nJake Ireland\n\n\n\n\n\nJake Ireland\n\n\n\nJake graduated with a Bachelor of Science in Psychology and Mathematics from Victoria University of Wellington in 2020. During his studies, he contributed to research on cross-cultural psychology, drug abuse, and face perception. Since graduating, he has worked in cyber security and, since 2022, has been researching cultural evolution with the Causal Lab at Victoria University. He completed his Honours in 2024 and began his PhD in 2025. Jake is investigating the co-evolution of religious and political culture in the Pacific.\n\nProject: Pulotu\nMethods: Causal Machine Learning\nORCID Profile\n\n\n\n\n\nJessie Auckram\n\n\n\n\n\nJessie Auckram\n\n\n\nJessie is investigating individual differences in personal resilience related to poverty.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning"
+    "text": "PhD Students\n\nJessie Auckram\n\n\n\n\n\nJessie Auckram\n\n\n\nJessie is investigating individual differences in personal resilience related to poverty.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning\n\n\n\n\n\nJake Ireland\n\n\n\n\n\nJake Ireland\n\n\n\nJake graduated with a Bachelor of Science in Psychology and Mathematics from Victoria University of Wellington in 2020. During his studies, he contributed to research on cross-cultural psychology, drug abuse, and face perception. Since graduating, he has worked in cyber security and, since 2022, has been researching cultural evolution with the Causal Lab at Victoria University. He completed his Honours in 2024 and began his PhD in 2025. Jake is investigating the co-evolution of religious and political culture in the Pacific.\n\nProject: Pulotu\nMethods: Causal Machine Learning\nORCID Profile\n\n\n\n\n\nMohammad Islam\n\n\n\n\n\nMohammad Islam\n\n\n\nMohammad is estimating the causal effects of Right-Wing Authoritarianism and Social Dominance Orientation on outcome-wide prejudice. He joins the lab from Bangladesh.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning\n\n\n\n\n\nMekonnen Tsehay\n\n\n\n\n\nMekonnen Tsehay\n\n\n\nMekonnen is estimating the causal effects of religious ritual behaviours on health and wellbeing among religiously identified people in New Zealand. He joins the lab from Ethiopia.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning"
   },
   {
     "objectID": "team.html#masters-students",
     "href": "team.html#masters-students",
-    "title": "Lab",
+    "title": "People",
     "section": "Master’s Students",
     "text": "Master’s Students\n\nBoyang Cao\n\n\n\n\n\nBoyang Cao\n\n\n\nBoyang is researching the causal effects of prejudice on personality.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning\n\n\n\n\n\nHannah Robinson\n\n\n\n\n\nHannah Robinson\n\n\n\nHannah is researching the causal effects of religious service attendance on personality.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning\n\n\n\n\n\nZahle Wisely\n\n\n\n\n\nZahle Wisely\n\n\n\nZahle is investigating the causal effects of employer gratitude on multi-dimensional well-being.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning"
   },
   {
     "objectID": "team.html#research-assistants",
     "href": "team.html#research-assistants",
-    "title": "Lab",
+    "title": "People",
     "section": "Research Assistants",
     "text": "Research Assistants\n\nMillie Rea\n\n\n\n\n\nMillie Rea\n\n\n\nMillie is investigating extensions of ACCEPT Lab workflows to policy settings, focusing on IDI (Integrated Data Infrastructure) data.\n\nMethods: Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning"
   },
   {
     "objectID": "team.html#alumni",
     "href": "team.html#alumni",
-    "title": "Lab",
+    "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\nDr. John Mark Kempthorne\n\n\n\n\n\nDr. JohnMark Kempthorne\n\n\n\nJohn Mark received his PhD from the School of Psychology at Victoria University of Wellington in 2025. His disseration investigated application of causal methods to NZAVS time-series data. He is currently working as a Post-doctoral Fellow at the Shaver Lab\n\nORCID Profile\n\n\n\n\n\nBella Chong\n\n\n\n\n\nBella Chong\n\n\n\nBella received her Master’s degree from Victoria University of Wellington in 2023. Her research investigated the causal effects of work hours on multi-dimensional well-being.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Longitudinal Modified Treatment Policies\nORCID Profile"
+    "text": "Alumni\n\nDr. Inkuk Kim\n\n\n\n\n\nDr. Inkuk Kim\n\n\n\nDr. Inkuk Kim worked with ACCEPT Lab as a Research Fellow at the Centre for Applied Cross-cultural Research and the School of Psychological Sciences at Victoria University of Wellington. He has moved to take up a postdoctoral fellowship at the HAPPI Lab at Georgia State University (GSU), working with Don E. Davis. Inkuk remains a Fellow of ACCEPT Lab and is working on projects related to environmental psychology, trust in science, and character formation over the adult lifespan.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Longitudinal Modified Treatment Policies; Causal Machine Learning\nORCID Profile\nUniversity Profile\nGitHub\n\n\n\n\n\nDr. John Mark Kempthorne\n\n\n\n\n\nDr. JohnMark Kempthorne\n\n\n\nJohn Mark received his PhD from the School of Psychology at Victoria University of Wellington in 2025. His disseration investigated application of causal methods to NZAVS time-series data. He is currently working as a Post-doctoral Fellow at the Shaver Lab\n\nORCID Profile\n\n\n\n\n\nBella Chong\n\n\n\n\n\nBella Chong\n\n\n\nBella received her Master’s degree from Victoria University of Wellington in 2023. Her research investigated the causal effects of work hours on multi-dimensional well-being.\n\nProject: New Zealand Attitudes and Values Study (NZAVS)\nMethods: Longitudinal Modified Treatment Policies\nORCID Profile"
   },
   {
     "objectID": "team.html#join-the-lab",
     "href": "team.html#join-the-lab",
-    "title": "Lab",
+    "title": "People",
     "section": "Join the lab",
     "text": "Join the lab\nIf you’re interested in joining the lab, please contact:\n📧 joseph.bulbulia@vuw.ac.nz"
   },
@@ -599,14 +599,14 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "20 February 2026 | Te Herenga Waka - Victoria University of Wellington\nThe Places Map project is now live at placesmap.org. Places Map is an open research infrastructure for mapping places of worship and supporting cross-cultural policy research.\nProject code and workflows are available at github.com/go-bayes/places-of-worship."
+    "text": "March 2026 | Georgia State University\nIt is with mixed feelings that we say goodbye to Dr Inkuk Kim, who has taken up a postdoctoral fellowship with Professor Don E. Davis at the HAPPI Lab at Georgia State University.\nInkuk remains a Fellow of ACCEPT Lab and is working on a number of projects related to environmental psychology, trust in science, and character formation over the adult lifespan.\n\n\n\n\n20 February 2026 | Te Herenga Waka - Victoria University of Wellington\nThe Places Map project is now live at placesmap.org. Places Map is an open research infrastructure for mapping places of worship and supporting cross-cultural policy research.\nProject code and workflows are available at github.com/go-bayes/places-of-worship.\n\n\n\n\nJanuary 2026 | Te Herenga Waka - Victoria University of Wellington\nWe are delighted to welcome two new PhD students to ACCEPT Lab: Mekonnen Tsehay and Mohammad Islam.\nMekonnen joins the lab from Ethiopia. He is estimating the causal effects of religious ritual behaviours on health and wellbeing among religiously identified people in New Zealand.\nMohammad joins the lab from Bangladesh. He is estimating the causal effects of Right-Wing Authoritarianism and Social Dominance Orientation on outcome-wide prejudice.\nA warm welcome to Mekonnen and Mohammad."
   },
   {
     "objectID": "news.html#section",
     "href": "news.html#section",
     "title": "News",
     "section": "",
-    "text": "20 February 2026 | Te Herenga Waka - Victoria University of Wellington\nThe Places Map project is now live at placesmap.org. Places Map is an open research infrastructure for mapping places of worship and supporting cross-cultural policy research.\nProject code and workflows are available at github.com/go-bayes/places-of-worship."
+    "text": "March 2026 | Georgia State University\nIt is with mixed feelings that we say goodbye to Dr Inkuk Kim, who has taken up a postdoctoral fellowship with Professor Don E. Davis at the HAPPI Lab at Georgia State University.\nInkuk remains a Fellow of ACCEPT Lab and is working on a number of projects related to environmental psychology, trust in science, and character formation over the adult lifespan.\n\n\n\n\n20 February 2026 | Te Herenga Waka - Victoria University of Wellington\nThe Places Map project is now live at placesmap.org. Places Map is an open research infrastructure for mapping places of worship and supporting cross-cultural policy research.\nProject code and workflows are available at github.com/go-bayes/places-of-worship.\n\n\n\n\nJanuary 2026 | Te Herenga Waka - Victoria University of Wellington\nWe are delighted to welcome two new PhD students to ACCEPT Lab: Mekonnen Tsehay and Mohammad Islam.\nMekonnen joins the lab from Ethiopia. He is estimating the causal effects of religious ritual behaviours on health and wellbeing among religiously identified people in New Zealand.\nMohammad joins the lab from Bangladesh. He is estimating the causal effects of Right-Wing Authoritarianism and Social Dominance Orientation on outcome-wide prejudice.\nA warm welcome to Mekonnen and Mohammad."
   },
   {
     "objectID": "news.html#section-1",

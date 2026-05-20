@@ -4,6 +4,16 @@ title: "News"
 
 ## 2026
 
+### Dr Inkuk Kim Takes Up Postdoctoral Fellowship at GSU
+
+**March 2026 | Georgia State University**
+
+It is with mixed feelings that we say goodbye to Dr Inkuk Kim, who has taken up a postdoctoral fellowship with [Professor Don E. Davis](https://news.gsu.edu/coronavirus-expert/don-davis-jr/) at the HAPPI Lab at Georgia State University.
+
+Inkuk remains a Fellow of ACCEPT Lab and is working on a number of projects related to environmental psychology, trust in science, and character formation over the adult lifespan.
+
+---
+
 ### Places Map Is Live
 
 **20 February 2026 | Te Herenga Waka - Victoria University of Wellington**
@@ -11,6 +21,20 @@ title: "News"
 The Places Map project is now live at [placesmap.org](https://www.placesmap.org/). Places Map is an open research infrastructure for mapping places of worship and supporting cross-cultural policy research.
 
 Project code and workflows are available at [github.com/go-bayes/places-of-worship](https://github.com/go-bayes/places-of-worship).
+
+---
+
+### Two New PhD Students Join ACCEPT Lab
+
+**January 2026 | Te Herenga Waka - Victoria University of Wellington**
+
+We are delighted to welcome two new PhD students to ACCEPT Lab: Mekonnen Tsehay and Mohammad Islam.
+
+Mekonnen joins the lab from Ethiopia. He is estimating the causal effects of religious ritual behaviours on health and wellbeing among religiously identified people in New Zealand.
+
+Mohammad joins the lab from Bangladesh. He is estimating the causal effects of Right-Wing Authoritarianism and Social Dominance Orientation on outcome-wide prejudice.
+
+A warm welcome to Mekonnen and Mohammad.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lab"
+title: "People"
 ---
 
 ## Director
@@ -44,31 +44,24 @@ Joe supervises students in a broad range of areas, including:
 
 ---
 
-## Research Fellow
+## PhD Students
 
-### Dr. Inkuk Kim
+### Jessie Auckram
 
 :::: {.columns}
 
 ::: {.column width="25%"}
-![Dr. Inkuk Kim](images/team/inkuk-kim.jpg){.team-photo}
+![Jessie Auckram](images/team/jessie-auckram.jpg){.team-photo}
 :::
 
 ::: {.column width="75%"}
-Dr. Inkuk Kim is a Research Fellow at the Centre for Applied Cross-cultural Research and the School of Psychological Sciences at Victoria University of Wellington. His research focuses on fostering social cohesion to mitigate conflicts in multicultural societies, addressing climate change, and enhancing well-being. He is currently investigating the causal effects of trust in science on environmental attitudes and behaviours.
+Jessie is investigating individual differences in personal resilience related to poverty.
 
 - **Project:** New Zealand Attitudes and Values Study (NZAVS)
-- **Methods:** Longitudinal Modified Treatment Policies; Causal Machine Learning
-- [ORCID Profile](https://orcid.org/0000-0002-7694-6295)
-- [University Profile](https://people.wgtn.ac.nz/inkuk.kim)
-- [GitHub](https://github.com/Inkuk-Kim)
+- **Methods:** Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning
 :::
 
 ::::
-
----
-
-## PhD Students
 
 ### Jake Ireland
 
@@ -89,16 +82,33 @@ Jake graduated with a Bachelor of Science in Psychology and Mathematics from Vic
 
 ::::
 
-### Jessie Auckram
+### Mohammad Islam
 
 :::: {.columns}
 
 ::: {.column width="25%"}
-![Jessie Auckram](images/team/jessie-auckram.jpg){.team-photo}
+![Mohammad Islam](images/team/mohammad.jpg){.team-photo}
 :::
 
 ::: {.column width="75%"}
-Jessie is investigating individual differences in personal resilience related to poverty.
+Mohammad is estimating the causal effects of Right-Wing Authoritarianism and Social Dominance Orientation on outcome-wide prejudice. He joins the lab from Bangladesh.
+
+- **Project:** New Zealand Attitudes and Values Study (NZAVS)
+- **Methods:** Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning
+:::
+
+::::
+
+### Mekonnen Tsehay
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![Mekonnen Tsehay](images/team/Mekonnen.jpg){.team-photo}
+:::
+
+::: {.column width="75%"}
+Mekonnen is estimating the causal effects of religious ritual behaviours on health and wellbeing among religiously identified people in New Zealand. He joins the lab from Ethiopia.
 
 - **Project:** New Zealand Attitudes and Values Study (NZAVS)
 - **Methods:** Heterogeneous Treatment Effects; Longitudinal Modified Treatment Policies; Causal Machine Learning
@@ -182,6 +192,26 @@ Millie is investigating extensions of ACCEPT Lab workflows to policy settings, f
 ---
 
 ## Alumni
+
+### Dr. Inkuk Kim
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![Dr. Inkuk Kim](images/team/inkuk-kim.jpg){.team-photo}
+:::
+
+::: {.column width="75%"}
+Dr. Inkuk Kim worked with ACCEPT Lab as a Research Fellow at the Centre for Applied Cross-cultural Research and the School of Psychological Sciences at Victoria University of Wellington. He has moved to take up a postdoctoral fellowship at the HAPPI Lab at Georgia State University (GSU), working with [Don E. Davis](https://news.gsu.edu/coronavirus-expert/don-davis-jr/). Inkuk remains a Fellow of ACCEPT Lab and is working on projects related to environmental psychology, trust in science, and character formation over the adult lifespan.
+
+- **Project:** New Zealand Attitudes and Values Study (NZAVS)
+- **Methods:** Longitudinal Modified Treatment Policies; Causal Machine Learning
+- [ORCID Profile](https://orcid.org/0000-0002-7694-6295)
+- [University Profile](https://people.wgtn.ac.nz/inkuk.kim)
+- [GitHub](https://github.com/Inkuk-Kim)
+:::
+
+::::
 
 ### Dr. John Mark Kempthorne
 

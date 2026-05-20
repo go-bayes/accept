@@ -2,11 +2,9 @@
 title: "About ACCEPT Lab"
 ---
 
-## What we do
-
 ACCEPT Lab (Applied Causal and Cultural Evidence for Policy Targeting) uses causal inference to address long-standing debates and real-world problems. Rigorous causal workflows clarify what works, for whom, when, and in which context - questions that matter for science, policy, and understanding cultural diversity.
 
-ACCEPT Lab is based in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
+We are based in the [School of Psychological Sciences](https://www.wgtn.ac.nz/psyc) at Te Herenga Waka - Victoria University of Wellington, and is affiliated with the [Centre for Applied Cross-Cultural Research (CACR)](https://www.wgtn.ac.nz/cacr).
 
 We also maintain [Places Map](https://www.placesmap.org/), an open research infrastructure for mapping places of worship and supporting cross-cultural policy research. The underlying codebase is available at [github.com/go-bayes/places-of-worship](https://github.com/go-bayes/places-of-worship).
 
@@ -40,8 +38,10 @@ We combine causal inference workflows with domain expertise to:
 library(leaflet)
 leaflet() %>%
   addTiles() %>%
-  addMarkers(lng=174.7681, lat=-41.2889, 
-             popup="ACCEPT Lab<br>Easterfield Building EA 324<br>Te Herenga Waka - Victoria University of Wellington")
+  addMarkers(
+    lng = 174.7681, lat = -41.2889,
+    popup = "ACCEPT Lab<br>Easterfield Building EA 324<br>Te Herenga Waka - Victoria University of Wellington"
+  )
 ```
 
 ---
@@ -58,10 +58,6 @@ The ACCEPT Lab group gratefully acknowledges support from:
 - TRT-2022-30666: "Mapping Places of Worship: A Tool for Efficient Global Data Collection on Religious Communities"
   - Joseph Bulbulia (Contact PI) and Joseph Watts
   
-- TRT-2022-30579: "A national longitudinal study of Muslim diversity and flourishing"
-  - Usman Afzali (Contact PI), Joseph Bulbulia (Co-PI)
-  
-
 
 :::: {.columns}
 ::: {.column width="60%"}
@@ -75,4 +71,3 @@ The ACCEPT Lab group gratefully acknowledges support from:
 :::
 ::::
 
-*ACCEPT Lab is based at Te Herenga Waka - Victoria University of Wellington, New Zealand.
