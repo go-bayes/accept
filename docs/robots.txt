@@ -1,1 +1,0 @@
-Sitemap: https://go-bayes.github.io/accept/sitemap.xml

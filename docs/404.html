@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting to OTTO Lab</title>
+  <meta name="robots" content="noindex">
+  <script>
+    // path-preserving redirect: /accept/<page> -> /ottolab/<page>
+    (function () {
+      var base = "https://go-bayes.github.io/ottolab/";
+      var path = window.location.pathname;
+      var marker = "/accept/";
+      var idx = path.indexOf(marker);
+      var rest = idx >= 0 ? path.slice(idx + marker.length) : "";
+      window.location.replace(base + rest + window.location.search + window.location.hash);
+    })();
+  </script>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+           max-width: 32rem; margin: 12vh auto; padding: 0 1.5rem; line-height: 1.6;
+           color: #2c2c3a; }
+    a { color: #5872f5; }
+  </style>
+</head>
+<body>
+  <p>This page has moved to the <a href="https://go-bayes.github.io/ottolab/">OTTO Lab</a> site.</p>
+</body>
+</html>

@@ -2,8 +2,11 @@
 .quarto/
 _site/
 
-# Note: docs/ is NOT ignored - needed for GitHub Pages
-# But we still ignore other HTML/PDF files outside docs/
+# docs/ is the published GitHub Pages output (now a static redirect) and must stay
+# tracked. The global ~/.gitignore ignores *.html, which would silently drop the
+# redirect's 404.html. Re-include the docs/ output so the redirect deploys in full.
+!docs/**
+# still ignore stray HTML/PDF rendered at the repo root
 /*.html
 /*.pdf
 *.pptx
