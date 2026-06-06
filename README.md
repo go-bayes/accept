@@ -1,6 +1,6 @@
 # ACCEPT Lab → OTTO Lab
 
-The ACCEPT Lab has been renamed the **OTTO Lab** (Observational Target Trial Outcomes).
+The ACCEPT Lab has been renamed the **OTTO Lab** (Observational Target Trial Operations).
 
 - New site: <https://go-bayes.github.io/ottolab/>
 - New repository: <https://github.com/go-bayes/ottolab>
